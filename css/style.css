@@ -407,40 +407,6 @@ ul, ol { list-style: none; }
   margin-bottom: 30px;
 }
 
-.subscribe {
-  display: flex;
-  gap: 10px;
-  justify-content: center;
-  margin-bottom: 46px;
-}
-
-.subscribe input {
-  flex: 1;
-  max-width: 340px;
-  padding: 12px 18px;
-  border: 1px solid rgba(255,255,255,.3);
-  border-radius: 999px;
-  background: rgba(255,255,255,.1);
-  color: #fff;
-  font-size: 14px;
-  outline: none;
-}
-
-.subscribe input::placeholder { color: rgba(255,255,255,.55); }
-.subscribe input:focus { border-color: rgba(255,255,255,.7); }
-
-.subscribe button {
-  padding: 12px 28px;
-  border: 0;
-  border-radius: 999px;
-  background: #fff;
-  color: var(--green-dark);
-  font-size: 14px;
-  cursor: pointer;
-  transition: opacity .2s ease;
-}
-.subscribe button:hover { opacity: .88; }
-
 .footer-copy {
   font-size: 13px;
   color: rgba(255,255,255,.55);

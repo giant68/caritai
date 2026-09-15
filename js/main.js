@@ -67,29 +67,18 @@
 
     var t = lang === 'zh' ? {
       follow: '关注微爱',
-      sub: '订阅公开信，即时了解我们的动向',
-      ph: '请输入邮箱地址',
-      btn: '确认订阅',
       note: '关注微信公众号「微爱未央」，了解我们的最新动态',
-      copy: '© 2020 by Caritai Group. All rights reserved.'
+      copy: '© 2026 by Caritai Group. All rights reserved.'
     } : {
       follow: 'Follow Caritai',
-      sub: 'Subscribe to our newsletter for the latest updates',
-      ph: 'Email address',
-      btn: 'Subscribe',
       note: 'Follow our WeChat official account 微爱未央 for updates',
-      copy: '© 2020 by Caritai Group. All rights reserved.'
+      copy: '© 2026 by Caritai Group. All rights reserved.'
     };
 
     el.innerHTML =
       '<div class="container"><div class="footer-inner">' +
         '<h3 class="footer-title">微爱未央 · Caritai</h3>' +
         '<p class="footer-sub">' + t.follow + '</p>' +
-        '<p class="footer-sub">' + t.sub + '</p>' +
-        '<form class="subscribe" onsubmit="return false;">' +
-          '<input type="email" placeholder="' + t.ph + '" aria-label="' + t.ph + '">' +
-          '<button type="submit">' + t.btn + '</button>' +
-        '</form>' +
         '<p class="footer-sub">' + t.note + '</p>' +
         '<p class="footer-copy">' + t.copy + '</p>' +
       '</div></div>';
