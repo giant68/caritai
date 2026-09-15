@@ -1353,6 +1353,61 @@ window.TEAM_DATA = {
       ]
     },
     {
+      "group": "学生团队",
+      "name": "钟梦佳",
+      "avatar": "assets/members/team_pzk44.jpg",
+      "fields": [
+        {
+          "label": "加入微爱的年份",
+          "value": "2025"
+        },
+        {
+          "label": "家乡",
+          "value": "江西赣州"
+        },
+        {
+          "label": "专业和班级",
+          "value": "翻译2501班"
+        },
+        {
+          "label": "爱好",
+          "value": "看书、跑步"
+        },
+        {
+          "label": "有趣的事实",
+          "value": "在家乡不太能吃辣的我，在华科似乎挺能吃辣"
+        },
+        {
+          "label": "为什么加入微爱",
+          "value": "认识志同道合的伙伴，过丰富的大学生活"
+        },
+        {
+          "label": "我比较擅长的事或者技能",
+          "value": "钻研一些问题的解决方法"
+        },
+        {
+          "label": "微爱用得到我的地方",
+          "value": "宣传工作"
+        },
+        {
+          "label": "我希望有练习和提高的地方",
+          "value": "沟通交流"
+        },
+        {
+          "label": "加入的其他学生组织",
+          "value": "研心协、“绿动华科大”志愿团队"
+        },
+        {
+          "label": "梦想",
+          "value": "用知识做有益社会的事"
+        },
+        {
+          "label": "最喜欢的一句话",
+          "value": "读万卷书，行万里路"
+        }
+      ]
+    },
+    {
       "group": "微爱校友",
       "name": "石铮 (Shi Zheng)",
       "avatar": "assets/members/team_pzk1i.png",
@@ -3853,6 +3908,57 @@ window.TEAM_DATA = {
         {
           "label": "Favorite quote",
           "value": "\"Stay unguarded, stay passionate.\""
+        }
+      ]
+    },
+    {
+      "group": "Caritai Students",
+      "name": "Mengjia Zhong",
+      "avatar": "assets/members/en_pzk54.jpg",
+      "fields": [
+        {
+          "label": "Year of joining Caritai",
+          "value": "2025"
+        },
+        {
+          "label": "Hometown",
+          "value": "Ganzhou, Jiangxi"
+        },
+        {
+          "label": "Major and Class",
+          "value": "Translation and Interpreting, Class 2501"
+        },
+        {
+          "label": "Hobbies",
+          "value": "Reading and running"
+        },
+        {
+          "label": "Interesting fact",
+          "value": "I couldn't handle spicy food back home, but here at HUST I seem to handle it surprisingly well"
+        },
+        {
+          "label": "Reason for joining Caritai",
+          "value": "To meet like-minded friends and live a fulfilling college life"
+        },
+        {
+          "label": "Skills or strengths",
+          "value": "Digging into problems to find solutions"
+        },
+        {
+          "label": "Where Caritai can utilize me",
+          "value": "Publicity and promotion work"
+        },
+        {
+          "label": "Areas I hope to practice and improve",
+          "value": "Communication\n\nOther student organizations I have joined: The Psychology Association and the \"Green HUST\" volunteer team"
+        },
+        {
+          "label": "Dream",
+          "value": "To use my knowledge to do things that benefit society"
+        },
+        {
+          "label": "Favorite quote",
+          "value": "\"Read ten thousand books and travel ten thousand miles.\""
         }
       ]
     },
