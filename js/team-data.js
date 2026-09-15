@@ -32,8 +32,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n心无旁骛地研究一件事，一件事研究很多年。\n\nI have been able to fully concentrate on researching one thing for many years."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n微爱是一群有志而独立的个体组成的青年社区，让这个社区里的每个个体取长补短，无所不能。\n\nCaritai is a community of thoughtful and independent youth. They bring together complementary skills and strengths and collectively make a highly capable and versatile team."
+          "label": "为什么加入微爱",
+          "value": "微爱是一群有志而独立的个体组成的青年社区，让这个社区里的每个个体取长补短，无所不能。\n\nCaritai is a community of thoughtful and independent youth. They bring together complementary skills and strengths and collectively make a highly capable and versatile team."
         }
       ]
     },
@@ -67,8 +67,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n曾获得美国州际区域性击剑比赛铜牌\n\nI won a bronze medal in a state fencing tournament in the United States."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n我希望能以己所能与所有来帮助学生们，他们定能让我深爱的故国更加美丽富强。\n\nI hope to do what I can with what I have for those who might be able to make a difference for my country, which I love."
+          "label": "为什么加入微爱",
+          "value": "我希望能以己所能与所有来帮助学生们，他们定能让我深爱的故国更加美丽富强。\n\nI hope to do what I can with what I have for those who might be able to make a difference for my country, which I love."
         }
       ]
     },
@@ -102,8 +102,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n自学计算机并跨行，完成从文科生到工科男的转换，挑战自己并突破不可能\n\nI studied computer science by myself and transitioned my career from liberal arts to engineering. I successfully completed the challenge and made a difficult breakthrough."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n大学时代曾收到来自老师和同学们的各种关怀帮助，至今感恩不已，因此希望能通过微爱这样的平台传播这种互助和向上的精神，尽自己的一份绵薄之力。微爱给我最大的印象就是“爱”，这是一个团队更是一个大家庭，每一个参与过微爱的人都会从中感受到浓浓的关爱，这种爱能够在匆忙的生活工作之余带去一种精神上的慰藉和激励，我认为这也是微爱创办的初衷之所在。\n\nI received lots of help from my teachers and classmates while I was an undergraduate, which I still feel much grateful for. Therefore, I hope to pay it forward through Caritai with what I can and relay the spirit of mutual support and positivity to more people. What impressed me most about Caritai is \"love\" - she is a team and also a big family. Every individual who has been part of Caritai feels the genuine care from each other, which gives us continual comfort and inspiration in our busy work and life. This was the very mission and goal when Caritai was founded."
+          "label": "为什么加入微爱",
+          "value": "大学时代曾收到来自老师和同学们的各种关怀帮助，至今感恩不已，因此希望能通过微爱这样的平台传播这种互助和向上的精神，尽自己的一份绵薄之力。微爱给我最大的印象就是“爱”，这是一个团队更是一个大家庭，每一个参与过微爱的人都会从中感受到浓浓的关爱，这种爱能够在匆忙的生活工作之余带去一种精神上的慰藉和激励，我认为这也是微爱创办的初衷之所在。\n\nI received lots of help from my teachers and classmates while I was an undergraduate, which I still feel much grateful for. Therefore, I hope to pay it forward through Caritai with what I can and relay the spirit of mutual support and positivity to more people. What impressed me most about Caritai is \"love\" - she is a team and also a big family. Every individual who has been part of Caritai feels the genuine care from each other, which gives us continual comfort and inspiration in our busy work and life. This was the very mission and goal when Caritai was founded."
         }
       ]
     },
@@ -137,8 +137,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n在家免费招待与留宿过来自14个国家的陌生旅行者，与他们一起做饭、散步、分享各自的故事与见解。\n\nI have hosted travelers at my place from 14 countries. We cooked meals and took walks together, and shared stories and insights with each other."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n我在美国做高等教育研究的过程中，感到国内高校对第一代大学生的服务仍需加强，这是一个或多或少未被足够重视的群体，他们有着独特的发展需要。我希望尽我所能为祖国的教育做些贡献，培养出一批心怀社稷、眼望世界的学生。微爱是有情怀、有思想、有行动的团队，我们汇聚世界各地的微光，成为照亮他人的灯塔。\n\nDuring my research on higher education in the United States, I realized that there should be improvements in the services for first-generation students in universities in China. This community has unique developmental needs which are somewhat overlooked by the administrators. I hope to do my best to help China's higher education move forward and bring up a cohort of students who have civic responsibilities and a global citizenship. Caritai is a team characterized by genuine kindness, great thoughts, and a down-to-earth attitude. We bring \"glimmers of love\" from all over the world together to build a bright lighthouse for people who need us."
+          "label": "为什么加入微爱",
+          "value": "我在美国做高等教育研究的过程中，感到国内高校对第一代大学生的服务仍需加强，这是一个或多或少未被足够重视的群体，他们有着独特的发展需要。我希望尽我所能为祖国的教育做些贡献，培养出一批心怀社稷、眼望世界的学生。微爱是有情怀、有思想、有行动的团队，我们汇聚世界各地的微光，成为照亮他人的灯塔。\n\nDuring my research on higher education in the United States, I realized that there should be improvements in the services for first-generation students in universities in China. This community has unique developmental needs which are somewhat overlooked by the administrators. I hope to do my best to help China's higher education move forward and bring up a cohort of students who have civic responsibilities and a global citizenship. Caritai is a team characterized by genuine kindness, great thoughts, and a down-to-earth attitude. We bring \"glimmers of love\" from all over the world together to build a bright lighthouse for people who need us."
         }
       ]
     },
@@ -172,12 +172,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\nOpportunities to share things I’ve learned and get feedback on how to further improve my skills\n\n有机会分享我的所学所得，并且通过反馈来持续提升我的技能。"
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\nIn A Theory of Justice, John Rawls describes a just society as a society which, if you knew everything about it, you would willingly choose to be born into that society in a random place. I’ve long upheld this ideal -- of a society in which anyone could be born at any time and in any place without fear of lacking access to education, resources, capital, and upward mobility -- as the litmus test of a truly equitable society. And as I’ve grown older, I’ve found myself asking with every career decision: “With this choice, am I working towards a more just society?” If I cannot confidently answer “yes” to this question, it prompts me to rethink my priorities and motivations.\n\nEver since I met Xiao Chen in 2013, I’ve been a supporter of his vision and mission because they affirm the ideals of an equitable society that I myself strive towards. Taking a more active role in supporting Caritai was therefore a natural progression. I continue to look forward to updates from the Caritai community, and appreciate the cohesion and perseverance of its members, as well as the nobleness of the mission as a whole. Caritai and its community are models of excellence for education and society."
-        },
-        {
-          "label": "约翰·罗尔斯在《正义论》中提到，一个公正的社会应该如此",
-          "value": "假使你能事先知晓它的一切设置，你也会愿意在其中以任何出身开始你的人生。我一直坚信，检验一个社会真正公平与否的试金石，要看它的任何一员，无论出生于何时何地、何种状况，是否都有通畅的渠道来接受教育、积累财富、追寻幸福。当我年纪稍长，每次面临职业选择时，我都会扪心自问，“我的这个选择能让这个社会变得更加公平吗？” 如果我发现自己无法满怀信心地给出肯定的回答，那我就会重新衡量我的选择与重心，去寻找那些真正激励我的职业。我在2013年认识与了解微爱创始团队，自那以来，我始终认同他们的愿景与使命，因为它们与我个人对于建设公平社会的理想非常契合。因此，水到渠成，我随后自发积极参与微爱的建设。我保持跟进微爱的动态，感动于微爱人的团结与恒心，以及他们所坚守的高尚使命。微爱与微爱人，是教育精神与社会责任的典范。"
+          "label": "为什么加入微爱",
+          "value": "In A Theory of Justice, John Rawls describes a just society as a society which, if you knew everything about it, you would willingly choose to be born into that society in a random place. I’ve long upheld this ideal -- of a society in which anyone could be born at any time and in any place without fear of lacking access to education, resources, capital, and upward mobility -- as the litmus test of a truly equitable society. And as I’ve grown older, I’ve found myself asking with every career decision: “With this choice, am I working towards a more just society?” If I cannot confidently answer “yes” to this question, it prompts me to rethink my priorities and motivations.\n\nEver since I met Xiao Chen in 2013, I’ve been a supporter of his vision and mission because they affirm the ideals of an equitable society that I myself strive towards. Taking a more active role in supporting Caritai was therefore a natural progression. I continue to look forward to updates from the Caritai community, and appreciate the cohesion and perseverance of its members, as well as the nobleness of the mission as a whole. Caritai and its community are models of excellence for education and society.\n\n假使你能事先知晓它的一切设置，你也会愿意在其中以任何出身开始你的人生。我一直坚信，检验一个社会真正公平与否的试金石，要看它的任何一员，无论出生于何时何地、何种状况，是否都有通畅的渠道来接受教育、积累财富、追寻幸福。当我年纪稍长，每次面临职业选择时，我都会扪心自问，“我的这个选择能让这个社会变得更加公平吗？” 如果我发现自己无法满怀信心地给出肯定的回答，那我就会重新衡量我的选择与重心，去寻找那些真正激励我的职业。我在2013年认识与了解微爱创始团队，自那以来，我始终认同他们的愿景与使命，因为它们与我个人对于建设公平社会的理想非常契合。因此，水到渠成，我随后自发积极参与微爱的建设。我保持跟进微爱的动态，感动于微爱人的团结与恒心，以及他们所坚守的高尚使命。微爱与微爱人，是教育精神与社会责任的典范。"
         }
       ]
     },
@@ -211,8 +207,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n在工作和生活中都能坚持着自己热爱并笃信的事情。\n\nI have been able to uphold what I love and believe in, both in work and in life."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n加入微爱是个自然而然的过程，最吸引我的还是微爱的人。和有梦想的人一起干一件有梦想的事情，并且跟着这个集体共同成长，是件很幸运的事情。我希望能够和微爱一起，为中国高等教育的进步与改变做出一点点贡献。\n\nI was most inspired by Caritai’s people and my participation in Caritai was a natural process. I feel fortunate to collaborate with a cohort of people, to pursue our shared ideals, and to grow together as a community. I hope to be part of Caritai and make contributions to the advancement of China's higher education."
+          "label": "为什么加入微爱",
+          "value": "加入微爱是个自然而然的过程，最吸引我的还是微爱的人。和有梦想的人一起干一件有梦想的事情，并且跟着这个集体共同成长，是件很幸运的事情。我希望能够和微爱一起，为中国高等教育的进步与改变做出一点点贡献。\n\nI was most inspired by Caritai’s people and my participation in Caritai was a natural process. I feel fortunate to collaborate with a cohort of people, to pursue our shared ideals, and to grow together as a community. I hope to be part of Caritai and make contributions to the advancement of China's higher education."
         }
       ]
     },
@@ -246,8 +242,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n作为孩子的妈妈。\n\nI am a proud mother of my children."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n微爱的初创团队曾向我咨询微爱未央非营利管理的模型，我了解到微爱的故事与使命，认同微爱的价值观，欣赏这样积极热情的团队。我希望可以通过自己所能，既见证优秀团队的成长，实现微爱的理念和梦想，同时期待微爱团队所帮助到的小伙伴们有更值得期待的未来。\n\nI was consulted by Caritai's founders on non-profit operation models. I learned about the stories and mission behind Caritai and I acknowledge Caritai's values and passionate people. I hope to do my best to help the Caritai team fulfill their ideals and help our students grow and have a meaningful and exciting future."
+          "label": "为什么加入微爱",
+          "value": "微爱的初创团队曾向我咨询微爱未央非营利管理的模型，我了解到微爱的故事与使命，认同微爱的价值观，欣赏这样积极热情的团队。我希望可以通过自己所能，既见证优秀团队的成长，实现微爱的理念和梦想，同时期待微爱团队所帮助到的小伙伴们有更值得期待的未来。\n\nI was consulted by Caritai's founders on non-profit operation models. I learned about the stories and mission behind Caritai and I acknowledge Caritai's values and passionate people. I hope to do my best to help the Caritai team fulfill their ideals and help our students grow and have a meaningful and exciting future."
         }
       ]
     },
@@ -281,8 +277,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n勇于选择自己的发展方向，在重要的生命节点上做正确的事情。\n\nI was able to summon the courage to choose my future direction and make the right decisions at critical moments in my life."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n志趣相投的人在一起，志趣会得到升华，这是木秀于林的原理。微爱人凝聚的氛围和精神是我加入微爱的动力。\n\nPeople who are united by a common mission will drive that mission further. The cohesion and spirit of Caritai’s people inspired me to become part of Caritai."
+          "label": "为什么加入微爱",
+          "value": "志趣相投的人在一起，志趣会得到升华，这是木秀于林的原理。微爱人凝聚的氛围和精神是我加入微爱的动力。\n\nPeople who are united by a common mission will drive that mission further. The cohesion and spirit of Caritai’s people inspired me to become part of Caritai."
         }
       ]
     },
@@ -316,8 +312,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n我认同工作的价值，全身心投入，工作一直可以得到组织认可，两份工作均提前转正。\n\nI take great pride in my profession and am fully dedicated to my work. My contributions are always recognized by my organizations and I receive promotions ahead of schedule in both of my workplaces."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n因为认同微爱精神加入，微爱的团队是喧嚣生活中的一片净土。\n\nI joined Caritai because I identify with their ideals. The Caritai community feels like a pure sanctuary amidst the hustle and bustle in life."
+          "label": "为什么加入微爱",
+          "value": "因为认同微爱精神加入，微爱的团队是喧嚣生活中的一片净土。\n\nI joined Caritai because I identify with their ideals. The Caritai community feels like a pure sanctuary amidst the hustle and bustle in life."
         }
       ]
     },
@@ -351,8 +347,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n组织了国内最大的一场大学生黑客马拉松，这场活动聚集了150名来自世界各地的大学生并产生了很多有意思的项目。\n\nI organized one of China's largest collegiate hackathons that brought together 150+ students from around the world to build cool products."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n作为曾经有需要的第一代大学生，我深感机会和资源在教育里对学生们所能够带来的深远影响。 微爱始终坚守着推动教育公平的使命，朝着更好的方向进发。我很荣幸能够在其中，贡献一份绵薄之力。\n\nAs a first-generation college student myself once in need, I understood how significant a role opportunities and mentorship could play in this uphill battle. Caritai's mission to drive positive changes through educational equality has resonated with me from its beginning and I feel fortunate to be part of the team."
+          "label": "为什么加入微爱",
+          "value": "作为曾经有需要的第一代大学生，我深感机会和资源在教育里对学生们所能够带来的深远影响。 微爱始终坚守着推动教育公平的使命，朝着更好的方向进发。我很荣幸能够在其中，贡献一份绵薄之力。\n\nAs a first-generation college student myself once in need, I understood how significant a role opportunities and mentorship could play in this uphill battle. Caritai's mission to drive positive changes through educational equality has resonated with me from its beginning and I feel fortunate to be part of the team."
         }
       ]
     },
@@ -386,8 +382,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n我是一个基督徒，上帝对我的带领是我生命里最特别的事情。\n\nI am a Christian and I feel the guiding and calling from God are the most special things in my life."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n我喜欢大学生这个群体，觉得学生们很单纯，充满生命力，但同时也难免迷茫，我当年也有很多迷茫的时刻，最终能够走出来，我很感恩，所以希望能把自己的经历和资源分享给同学们，希望能帮助到大家。我认为微爱的人是纯粹的，有赤子之心的感觉。在一个复杂的世界中有这样简单又值得信任的关系很难得，这是我认为特别值得珍惜的。另外，在微爱的人身上，不论是创始人和每一届的学生，我都看到了坚持，那不是为了钱、权或者任何其他物质性的目的，就是一种热爱和责任感，这种对善良的折射也是微爱很特别的地方。真的就像名字“微爱”一样，很微小，但是是实实在在的爱，让人觉得很真诚，很踏实。\n\nI like the undergraduate student community - they are pure and energetic but can also inevitably get confused sometimes. I was also disoriented before but thankfully I was able to find my direction. Therefore, I hope to share my experiences and resources with students and help them grow. I feel Caritai people all have a genuine and passionate heart. It is particularly precious to find and keep such simple and mutual trust with others in this complex world. Additionally, I see perseverance in every \"Caritaier\", no natter students or founding members, that is not for wealth, power, or any other material purposes. It is pure passion and citizenship. The emphasis on kindness is special of Caritai. Just as the meaning of her name, \"Caritas + Ai (love)\", Caritai is a small organization but its love is real, and makes people feel genuine and reassured."
+          "label": "为什么加入微爱",
+          "value": "我喜欢大学生这个群体，觉得学生们很单纯，充满生命力，但同时也难免迷茫，我当年也有很多迷茫的时刻，最终能够走出来，我很感恩，所以希望能把自己的经历和资源分享给同学们，希望能帮助到大家。我认为微爱的人是纯粹的，有赤子之心的感觉。在一个复杂的世界中有这样简单又值得信任的关系很难得，这是我认为特别值得珍惜的。另外，在微爱的人身上，不论是创始人和每一届的学生，我都看到了坚持，那不是为了钱、权或者任何其他物质性的目的，就是一种热爱和责任感，这种对善良的折射也是微爱很特别的地方。真的就像名字“微爱”一样，很微小，但是是实实在在的爱，让人觉得很真诚，很踏实。\n\nI like the undergraduate student community - they are pure and energetic but can also inevitably get confused sometimes. I was also disoriented before but thankfully I was able to find my direction. Therefore, I hope to share my experiences and resources with students and help them grow. I feel Caritai people all have a genuine and passionate heart. It is particularly precious to find and keep such simple and mutual trust with others in this complex world. Additionally, I see perseverance in every \"Caritaier\", no natter students or founding members, that is not for wealth, power, or any other material purposes. It is pure passion and citizenship. The emphasis on kindness is special of Caritai. Just as the meaning of her name, \"Caritas + Ai (love)\", Caritai is a small organization but its love is real, and makes people feel genuine and reassured."
         }
       ]
     },
@@ -421,8 +417,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n从小就爱看书，现在能在图书馆工作，不能更满意呢。\n\nI have been a fan of reading since I was small, and now I work in a library. Nothing can be more satisfactory than this."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n曾经想为中国大学生做的事，微爱正在实现。现在我正在带领一个小组，愿景是持续地在这座城市里带领和服侍，用生命影响生命，帮助他们成长，造就他人。\n\nI have always wanted to do some services for university students in China, a mission that Caritai is carrying out right now. Now I am leading a group and my vision is to continue to serve in my city and influence and develop other lives with my own."
+          "label": "为什么加入微爱",
+          "value": "曾经想为中国大学生做的事，微爱正在实现。现在我正在带领一个小组，愿景是持续地在这座城市里带领和服侍，用生命影响生命，帮助他们成长，造就他人。\n\nI have always wanted to do some services for university students in China, a mission that Caritai is carrying out right now. Now I am leading a group and my vision is to continue to serve in my city and influence and develop other lives with my own."
         }
       ]
     },
@@ -456,16 +452,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n本科期间，独自骑着一辆破旧的自行车，花了两天时间从武汉骑回家，期间还爬了家乡的一座山，来了一场说走就走的旅行。\n\nOn a whim, I decided to take a two-day trip alone on my shabby bike from Wuhan to my hometown and even went over a mountain on my way."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)"
-        },
-        {
           "label": "为什么加入微爱",
-          "value": "我出生于农村，进入大学前自己仿佛就是一张白纸，我希望微爱能够给更多具有类似经历的大学生提供一个成长的平台，通过这个平台他们能够让白纸转变成多姿多彩的画卷。"
-        },
-        {
-          "label": "微爱给我的最大的印象",
-          "value": "微爱的学生都有着巨大的潜力，他们的创造力正在令微爱越发具有活力。\n\nI was born in a rural village and my life before university was as simple as a blank canvas. I hope that Caritai can provide a platform to facilitate the growth of students who have experiences similar to mine, and that this platform can turn their canvases into beautiful paintings."
+          "value": "我出生于农村，进入大学前自己仿佛就是一张白纸，我希望微爱能够给更多具有类似经历的大学生提供一个成长的平台，通过这个平台他们能够让白纸转变成多姿多彩的画卷。\n\n微爱的学生都有着巨大的潜力，他们的创造力正在令微爱越发具有活力。\n\nI was born in a rural village and my life before university was as simple as a blank canvas. I hope that Caritai can provide a platform to facilitate the growth of students who have experiences similar to mine, and that this platform can turn their canvases into beautiful paintings."
         }
       ]
     },
@@ -492,19 +480,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "令你感到自豪或独特的一件事",
-          "value": "(One thing that makes you feel proud or special)"
+          "value": "(One thing that makes you feel proud or special)\n\n组建业委会、合唱团、戏剧社、足球队、慈善基金、嘉年华等，创建了一个和谐的社区文化，邻里关系至今广为说道。\n\nI created a positive and harmonious culture for my neighborhood through various activities, including building a home-owner association, choir, theater club, soccer team, charitable foundation, and community festivals. My contributions to the community are still highly acknowledged by residents in my neighborhood today."
         },
         {
-          "label": "社区治理，通过各种活动",
-          "value": "组建业委会、合唱团、戏剧社、足球队、慈善基金、嘉年华等，创建了一个和谐的社区文化，邻里关系至今广为说道。\n\nI created a positive and harmonious culture for my neighborhood through various activities, including building a home-owner association, choir, theater club, soccer team, charitable foundation, and community festivals. My contributions to the community are still highly acknowledged by residents in my neighborhood today."
-        },
-        {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n微爱创始团队的积极、温暖的态度特别感染人。微爱认真坚持做一件事。年轻人是未来，帮助他们就是创造美好的未来。\n\nI was inspired by Caritai co-founders' positive and warm attitude and their perseverance and dedication for doing good. Young people are the future of our world, and helping them is creating a beautiful future."
+          "label": "为什么支持微爱",
+          "value": "微爱创始团队的积极、温暖的态度特别感染人。微爱认真坚持做一件事。年轻人是未来，帮助他们就是创造美好的未来。\n\nI was inspired by Caritai co-founders' positive and warm attitude and their perseverance and dedication for doing good. Young people are the future of our world, and helping them is creating a beautiful future."
         }
       ]
     },
@@ -534,12 +514,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n在亚马逊雨林深处和当地部落巫医一起进行死藤水通灵仪式。\n\nI participated in ayahuasca ceremony with a local Shaman in the Amazon jungle."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n微爱的学生都很优秀上进，和他们接触、听他们的故事给予我活力、启发我思考。\n\nI feel continually empowered and enlightened by Cartitai's students. Their stories are truly inspiring and thought-provoking."
+          "label": "为什么支持微爱",
+          "value": "微爱的学生都很优秀上进，和他们接触、听他们的故事给予我活力、启发我思考。\n\nI feel continually empowered and enlightened by Cartitai's students. Their stories are truly inspiring and thought-provoking."
         }
       ]
     },
@@ -549,19 +525,19 @@ window.TEAM_DATA = {
       "avatar": "assets/members/team_pzk14.png",
       "fields": [
         {
-          "label": "所在城市（City of residence）",
+          "label": "所在城市 (City of residence)",
           "value": "英国伦敦\n\nLondon, UK"
         },
         {
-          "label": "职务与工作单位（Professional experience）",
+          "label": "职务与工作单位 (Professional experience)",
           "value": "助理教授（运营管理方向），帝国理工学院\n\nAssistant Professor, Operations Management, Imperial College London"
         },
         {
-          "label": "教育经历（Educational background）",
+          "label": "教育经历 (Educational background)",
           "value": "清华大学，工业工程，学士\n\n美国西北大学，运营管理，博士\n\nPh.D., Operations Management, Northwestern University\n\nB.Eng., Industrial Engineering, Tsinghua University"
         },
         {
-          "label": "你的业余爱好（What keeps you busy outside work）",
+          "label": "你的业余爱好 (What keeps you busy outside work)",
           "value": "国标舞，阅读\n\nInternational style ballroom dance, Reading"
         },
         {
@@ -569,11 +545,7 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special）\n\n完成博士论文并且论文跨越两个不同的研究领域。\n\nI completed my dissertation, which integrates two separate fields of research."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
+          "label": "为什么支持微爱",
           "value": "How do you feel about Caritai?）\n\n我觉得微爱是一个非常团结温暖和充满热情的团体，每个人都有独特的闪光点，大家可以在分享和交流中开拓视野收获成长。我一直认为在学生时代及早了解校园外的世界和思考人生规划是一件非常重要的事情，而微爱正是一个在这方面能为同学提供帮助的平台。想到我的经历和想法在微爱也许可以帮助到更多年轻的朋友，这就是一件很开心的事情。\n\nI feel Caritai is an extremely cohesive, caring and passionate community, where every individual brings in their unique strengths and thoughts. Through discussion and collaboration, people broaden their horizons and grow towards greater self-fulfillment. I believe that it is vital for students in universities to start learning about the real world and contemplating future plans early. Caritai is precisely the platform that provides such opportunities for students. It is delightful to see that my personal experiences and thoughts might be of help to more younger friends in Caritai."
         }
       ]
@@ -604,12 +576,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n大部分时间都可以做到追求本心。\n\nI have been able to follow my heart most of the time."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n多多参与微爱的活动，为微爱的成员们各个阶段遇到的问题出谋划策，一同商讨；微爱给我的印象是一个很有张力的组织，非常有爱，\n\nI would like to participate in Caritai more and be a thoughtful partner of Caritai's members. Caritai is an energetic, cozy and caring organization."
+          "label": "为什么支持微爱",
+          "value": "多多参与微爱的活动，为微爱的成员们各个阶段遇到的问题出谋划策，一同商讨；微爱给我的印象是一个很有张力的组织，非常有爱，\n\nI would like to participate in Caritai more and be a thoughtful partner of Caritai's members. Caritai is an energetic, cozy and caring organization."
         }
       ]
     },
@@ -627,7 +595,7 @@ window.TEAM_DATA = {
           "value": "上海科技大学，助理教授\n美国西北大学，博士后\n\nAssistant Professor, ShanghaiTech University\nPostdoctoral Researcher, Northwestern University"
         },
         {
-          "label": "教育经历 (Educational background）",
+          "label": "教育经历 (Educational background)",
           "value": "安徽农业大学，工学，硕士\n\n柏林工业大学，自然科学，博士\n\nPh.D., Natural Sciences, Technische Universität Berlin\n\nM.Eng., Anhui Agricultural University"
         },
         {
@@ -639,12 +607,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n带好一个高效的研究团队。\n\nI created a highly effective research team for my lab."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n事似微，爱实深。\n\nOrdinary deeds led and persevered by extraordinary love."
+          "label": "为什么支持微爱",
+          "value": "事似微，爱实深。\n\nOrdinary deeds led and persevered by extraordinary love."
         }
       ]
     },
@@ -674,12 +638,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n我为自身的存在而自豪，我并不需要做什么去证明自己。每个人都是独特的。\n\nI feel proud of being myself and that I don't have to do anything to prove it. Every individual has their own unique worth."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n帮助第一代大学生寻找人生航线的方向是一件有意义的事情。微爱有一群充满了光明、追求爱和理性的年轻人。\n\nIt is a meaningful mission to support first-generation college students and help them explore their life journeys. Caritai is a cohort of young people who are bright, and pursue societal wellness and rational thinking."
+          "label": "为什么支持微爱",
+          "value": "帮助第一代大学生寻找人生航线的方向是一件有意义的事情。微爱有一群充满了光明、追求爱和理性的年轻人。\n\nIt is a meaningful mission to support first-generation college students and help them explore their life journeys. Caritai is a cohort of young people who are bright, and pursue societal wellness and rational thinking."
         }
       ]
     },
@@ -709,15 +669,7 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n在西藏参军两年。\n\nI served in the army in Tibet for 2 years."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)"
-        },
-        {
-          "label": "为什么愿意支持微爱",
+          "label": "为什么支持微爱",
           "value": "微爱的大部分朋友来自母校华中科技大学，大家有一定程度的了解，对创始成员有过接触和了解，靠谱值得信赖；能与一群真诚善良的人同行，幸运且美好。微爱富有激情，真诚，善良，值得信任。\n\nMost of Caritai’s students and friends come from my alma mater HUST, which gives us some shared knowledge and understanding. In addition, I have known the founding members for years and I know they are reliable and trustworthy. It is fortunate and wonderful to walk forward together with a group of genuine and kind-hearted people. Caritai feels passionate, sincere, kind, and trustworthy."
         }
       ]
@@ -748,12 +700,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n从高中起作为联合国教科文组织旗下非盈利性组织CISV的中国支部青年区主席长达10年，成功创办并且运营了亚太青年论坛，为当代高中生和普通大学生提供了一个真实的非营利性的国际文化交流平台。\n\nSince I was in high school, I've served for ten years as the Youth Chapter President and a National Junior Representative of China to CISV (a global non-profit organization under UNESCO). I founded and successfully hosted an annual forum for several years, specifically designed to facilitate international cultural exchanges for high school and college students in Asia and Pacific area."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n微爱发起和发展于草根，通过聚集微小的力量给更多家庭背景普通的大学生创造了更多的可能性。这种力量是具有正向的传播能力的，正如星星之火终有一天可以燎原。我们的国家我们的社会需要更多的正能量和无私的善意。\n\nCaritai originated and blossomed from a small grassroots movement, and has created countless possibilities for many university students from ordinary family backgrounds. It started from collecting small contributions and eventually became a powerful social force. Caritai represents kindness, potentiality, and positivity, which, I believe, should be the foundations of the future of the youth."
+          "label": "为什么支持微爱",
+          "value": "微爱发起和发展于草根，通过聚集微小的力量给更多家庭背景普通的大学生创造了更多的可能性。这种力量是具有正向的传播能力的，正如星星之火终有一天可以燎原。我们的国家我们的社会需要更多的正能量和无私的善意。\n\nCaritai originated and blossomed from a small grassroots movement, and has created countless possibilities for many university students from ordinary family backgrounds. It started from collecting small contributions and eventually became a powerful social force. Caritai represents kindness, potentiality, and positivity, which, I believe, should be the foundations of the future of the youth."
         }
       ]
     },
@@ -783,12 +731,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n用两年时间，在菲律宾带出一群本土专家级经理人。\n\nI developed a group of local experts in management within only two years in the Philippines."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n我希望与有需要同学分享一些经验，少走些弯路；提供力所能及的帮助。微爱聚集了一群纯粹的人，有纯粹的奉献、分享、交流。\n\nI hope to share my personal experiences with students to help them circumvent pitfalls and provide support towards their success. Caritai gathers a group of genuine people. Genuine service, sharing, and communication take place here."
+          "label": "为什么支持微爱",
+          "value": "我希望与有需要同学分享一些经验，少走些弯路；提供力所能及的帮助。微爱聚集了一群纯粹的人，有纯粹的奉献、分享、交流。\n\nI hope to share my personal experiences with students to help them circumvent pitfalls and provide support towards their success. Caritai gathers a group of genuine people. Genuine service, sharing, and communication take place here."
         }
       ]
     },
@@ -818,12 +762,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n做一位热心的公民，前一阵晚间大风刮倒了一棵大树挡住了国道四分之三，我几经波折联系到管理部门令其及时知晓处理。\n\nI am a responsible citizen. I saw a fallen tree that blocked a national highway on a windy night. I tried multiple ways to reach their management department and solved this danger in time."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n因为我本身就是微爱的受益者，想传递这份温暖给需要的人。微爱给我的印象是真诚、学习、探索、热情。\n\nI was a beneficiary of Caritai myself as an undergraduate and I would like to pay it forward and help others. Caritai characterizes sincerity, learning, exploration, and passion."
+          "label": "为什么支持微爱",
+          "value": "因为我本身就是微爱的受益者，想传递这份温暖给需要的人。微爱给我的印象是真诚、学习、探索、热情。\n\nI was a beneficiary of Caritai myself as an undergraduate and I would like to pay it forward and help others. Caritai characterizes sincerity, learning, exploration, and passion."
         }
       ]
     },
@@ -853,12 +793,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n今年是独特的一年，刚好疫情期间在武汉陪伴家人。\n\nI spent most of the unique year of 2020 in Wuhan taking care of my family."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n相信、认同创始团队的愿景，希望华科同学有更多机会发展自己\n\n我们每个人微微的爱在这里汇聚起来，微爱的同学们组织的非常好！\n\nI have faith in the vision of Caritai's founders and endeavor to create more development opportunities for university students. Every small piece of compassion we give nourishes the Caritai community, and I am very pleased to see our students capable of managing and developing this organization."
+          "label": "为什么支持微爱",
+          "value": "相信、认同创始团队的愿景，希望华科同学有更多机会发展自己\n\n我们每个人微微的爱在这里汇聚起来，微爱的同学们组织的非常好！\n\nI have faith in the vision of Caritai's founders and endeavor to create more development opportunities for university students. Every small piece of compassion we give nourishes the Caritai community, and I am very pleased to see our students capable of managing and developing this organization."
         }
       ]
     },
@@ -1049,7 +985,7 @@ window.TEAM_DATA = {
           "value": "河南"
         },
         {
-          "label": "专业班级",
+          "label": "专业和班级",
           "value": "日语2301"
         },
         {
@@ -1061,15 +997,15 @@ window.TEAM_DATA = {
           "value": "因为微爱是特别温暖有爱积极向上的组织，希望被照亮的同时也能照亮别人"
         },
         {
-          "label": "擅长的事或技能",
+          "label": "我比较擅长的事或者技能",
           "value": "共情，"
         },
         {
-          "label": "微爱用到我的地方",
+          "label": "微爱用得到我的地方",
           "value": "所有力所能及的事情都可，都会全力以赴"
         },
         {
-          "label": "我希望练习和提高的地方",
+          "label": "我希望有练习和提高的地方",
           "value": "社交能力，身体素质"
         },
         {
@@ -1104,7 +1040,7 @@ window.TEAM_DATA = {
           "value": "湖北黄冈"
         },
         {
-          "label": "专业班级",
+          "label": "专业和班级",
           "value": "水电2401班"
         },
         {
@@ -1167,7 +1103,7 @@ window.TEAM_DATA = {
           "value": "希望可以在更多方面帮助他人，奉献自己，和大家共同进步，共同成长"
         },
         {
-          "label": "比较擅长的事或者技能",
+          "label": "我比较擅长的事或者技能",
           "value": "弹琴、唱歌、跳舞"
         },
         {
@@ -1446,12 +1382,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n做一位热心的公民，前一阵晚间大风刮倒了一棵大树挡住了国道四分之三，我几经波折联系到管理部门令其及时知晓处理。\n\nI am a responsible citizen. I saw a fallen tree that blocked a national highway on a windy night. I tried multiple ways to reach their management department and solved this danger in time."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n因为我本身就是微爱的受益者，想传递这份温暖给需要的人。微爱给我的印象是真诚、学习、探索、热情。\n\nI was a beneficiary of Caritai myself as an undergraduate and I would like to pay it forward and help others. Caritai characterizes sincerity, learning, exploration, and passion."
+          "label": "为什么支持微爱",
+          "value": "因为我本身就是微爱的受益者，想传递这份温暖给需要的人。微爱给我的印象是真诚、学习、探索、热情。\n\nI was a beneficiary of Caritai myself as an undergraduate and I would like to pay it forward and help others. Caritai characterizes sincerity, learning, exploration, and passion."
         }
       ]
     },
@@ -1716,7 +1648,7 @@ window.TEAM_DATA = {
           "value": "会计（原德语）\n\n故乡\n\n湖北荆门"
         },
         {
-          "label": "爱好/特长",
+          "label": "爱好",
           "value": "做手工，看电影。\n\n有趣的事实\n\n小学放学和一个女同学一起走回家，走着走着，我把旁边的人肩膀一勾，说我们快点走。转头一看怎么是一男同学。特别尴尬和搞笑，然后我又回头去找那个女生。\n\n为什么加入微爱？\n\n希望在获得帮助的同时，可以通过自我管理去帮助别人。\n\n愿景\n\n希望在大家的努力之下，不断扩大微爱的影响力，让微爱的规模更大，帮助更多的人。同时让微爱之家的文化加深，我们就是一家人。"
         }
       ]
@@ -1929,7 +1861,7 @@ window.TEAM_DATA = {
           "value": "2020"
         },
         {
-          "label": "加入微爱的原因",
+          "label": "为什么加入微爱",
           "value": "我觉得微爱很温馨，希望以后可以与微爱的朋友们分享喜乐、共度挫折。希望来微爱结识更多的朋友，学会更多技能，例如，制作PPT、撰写微信推文，提高个人社交能力，同时可以传递爱心与正能量。"
         },
         {
@@ -1956,7 +1888,7 @@ window.TEAM_DATA = {
           "value": "2020"
         },
         {
-          "label": "加入微爱的原因",
+          "label": "为什么加入微爱",
           "value": "我觉得微爱的学长学姐很热情，面试时与学长学姐们很容易聊开。希望来微爱收获友谊，认识更多的学长学姐。想锻炼自己和他人交流的能力、学习排版方面的相关知识、锻炼和提高我的领导力。"
         },
         {
@@ -1983,7 +1915,7 @@ window.TEAM_DATA = {
           "value": "2020"
         },
         {
-          "label": "加入微爱的原因",
+          "label": "为什么加入微爱",
           "value": "面试时学长学姐很多，态度都很温和，感受良好。迎新会时，氛围融洽、轻松、和谐，自我交流很真实、朋友们很真诚。希望来微爱能够收获经验，接触自己不会的新事物。另外，微爱的宗旨“微爱至善，良愿未央”与我想要帮助更多人的想法十分契合。"
         },
         {
@@ -2010,7 +1942,7 @@ window.TEAM_DATA = {
           "value": "德语"
         },
         {
-          "label": "加入微爱的原因",
+          "label": "为什么加入微爱",
           "value": "想要帮助他人、回馈社会，同时在自己迷茫时得到一定的指引。"
         },
         {
@@ -2041,7 +1973,7 @@ window.TEAM_DATA = {
           "value": "英语"
         },
         {
-          "label": "加入微爱的原因",
+          "label": "为什么加入微爱",
           "value": "被微爱特别的创办理念吸引，希望能在这个组织中找到与自己志同道合的人，锻炼自己的社交能力而让自己变得更加优秀、自信,之后还能在这个组织中帮助到和现在的自己一样的学弟学妹们。"
         },
         {
@@ -2072,7 +2004,7 @@ window.TEAM_DATA = {
           "value": "日语"
         },
         {
-          "label": "加入微爱的原因",
+          "label": "为什么加入微爱",
           "value": "想同一群志同道合的伙伴一同进步，在个人发展的同时给予他人帮助，成就自己，成全他人。"
         },
         {
@@ -2412,8 +2344,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n曾获得美国州际区域性击剑比赛铜牌\n\nI won a bronze medal in a state fencing tournament in the United States."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n我希望能以己所能与所有来帮助学生们，他们定能让我深爱的故国更加美丽富强。\n\nI hope to do what I can with what I have for those who might be able to make a difference for my country, which I love."
+          "label": "为什么加入微爱",
+          "value": "我希望能以己所能与所有来帮助学生们，他们定能让我深爱的故国更加美丽富强。\n\nI hope to do what I can with what I have for those who might be able to make a difference for my country, which I love."
         }
       ]
     },
@@ -2447,8 +2379,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n自学计算机并跨行，完成从文科生到工科男的转换，挑战自己并突破不可能\n\nI studied computer science by myself and transitioned my career from liberal arts to engineering. I successfully completed the challenge and made a difficult breakthrough."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n大学时代曾收到来自老师和同学们的各种关怀帮助，至今感恩不已，因此希望能通过微爱这样的平台传播这种互助和向上的精神，尽自己的一份绵薄之力。微爱给我最大的印象就是“爱”，这是一个团队更是一个大家庭，每一个参与过微爱的人都会从中感受到浓浓的关爱，这种爱能够在匆忙的生活工作之余带去一种精神上的慰藉和激励，我认为这也是微爱创办的初衷之所在。\n\nI received lots of help from my teachers and classmates while I was an undergraduate, which I still feel much grateful for. Therefore, I hope to pay it forward through Caritai with what I can and relay the spirit of mutual support and positivity to more people. What impressed me most about Caritai is \"love\" - she is a team and also a big family. Every individual who has been part of Caritai feels the genuine care from each other, which gives us continual comfort and inspiration in our busy work and life. This was the very mission and goal when Caritai was founded."
+          "label": "为什么加入微爱",
+          "value": "大学时代曾收到来自老师和同学们的各种关怀帮助，至今感恩不已，因此希望能通过微爱这样的平台传播这种互助和向上的精神，尽自己的一份绵薄之力。微爱给我最大的印象就是“爱”，这是一个团队更是一个大家庭，每一个参与过微爱的人都会从中感受到浓浓的关爱，这种爱能够在匆忙的生活工作之余带去一种精神上的慰藉和激励，我认为这也是微爱创办的初衷之所在。\n\nI received lots of help from my teachers and classmates while I was an undergraduate, which I still feel much grateful for. Therefore, I hope to pay it forward through Caritai with what I can and relay the spirit of mutual support and positivity to more people. What impressed me most about Caritai is \"love\" - she is a team and also a big family. Every individual who has been part of Caritai feels the genuine care from each other, which gives us continual comfort and inspiration in our busy work and life. This was the very mission and goal when Caritai was founded."
         }
       ]
     },
@@ -2482,8 +2414,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n在家免费招待与留宿过来自14个国家的陌生旅行者，与他们一起做饭、散步、分享各自的故事与见解。\n\nI have hosted travelers at my place from 14 countries. We cooked meals and took walks together, and shared stories and insights with each other."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n我在美国做高等教育研究的过程中，感到国内高校对第一代大学生的服务仍需加强，这是一个或多或少未被足够重视的群体，他们有着独特的发展需要。我希望尽我所能为祖国的教育做些贡献，培养出一批心怀社稷、眼望世界的学生。微爱是有情怀、有思想、有行动的团队，我们汇聚世界各地的微光，成为照亮他人的灯塔。\n\nDuring my research on higher education in the United States, I realized that there should be improvements in the services for first-generation students in universities in China. This community has unique developmental needs which are somewhat overlooked by the administrators. I hope to do my best to help China's higher education move forward and bring up a cohort of students who have civic responsibilities and a global citizenship. Caritai is a team characterized by genuine kindness, great thoughts, and a down-to-earth attitude. We bring \"glimmers of love\" from all over the world together to build a bright lighthouse for people who need us."
+          "label": "为什么加入微爱",
+          "value": "我在美国做高等教育研究的过程中，感到国内高校对第一代大学生的服务仍需加强，这是一个或多或少未被足够重视的群体，他们有着独特的发展需要。我希望尽我所能为祖国的教育做些贡献，培养出一批心怀社稷、眼望世界的学生。微爱是有情怀、有思想、有行动的团队，我们汇聚世界各地的微光，成为照亮他人的灯塔。\n\nDuring my research on higher education in the United States, I realized that there should be improvements in the services for first-generation students in universities in China. This community has unique developmental needs which are somewhat overlooked by the administrators. I hope to do my best to help China's higher education move forward and bring up a cohort of students who have civic responsibilities and a global citizenship. Caritai is a team characterized by genuine kindness, great thoughts, and a down-to-earth attitude. We bring \"glimmers of love\" from all over the world together to build a bright lighthouse for people who need us."
         }
       ]
     },
@@ -2517,12 +2449,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\nOpportunities to share things I’ve learned and get feedback on how to further improve my skills\n\n有机会分享我的所学所得，并且通过反馈来持续提升我的技能。"
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\nIn A Theory of Justice, John Rawls describes a just society as a society which, if you knew everything about it, you would willingly choose to be born into that society in a random place. I’ve long upheld this ideal -- of a society in which anyone could be born at any time and in any place without fear of lacking access to education, resources, capital, and upward mobility -- as the litmus test of a truly equitable society. And as I’ve grown older, I’ve found myself asking with every career decision: “With this choice, am I working towards a more just society?” If I cannot confidently answer “yes” to this question, it prompts me to rethink my priorities and motivations.\n\nEver since I met Xiao Chen in 2013, I’ve been a supporter of his vision and mission because they affirm the ideals of an equitable society that I myself strive towards. Taking a more active role in supporting Caritai was therefore a natural progression. I continue to look forward to updates from the Caritai community, and appreciate the cohesion and perseverance of its members, as well as the nobleness of the mission as a whole. Caritai and its community are models of excellence for education and society."
-        },
-        {
-          "label": "约翰·罗尔斯在《正义论》中提到，一个公正的社会应该如此",
-          "value": "假使你能事先知晓它的一切设置，你也会愿意在其中以任何出身开始你的人生。我一直坚信，检验一个社会真正公平与否的试金石，要看它的任何一员，无论出生于何时何地、何种状况，是否都有通畅的渠道来接受教育、积累财富、追寻幸福。当我年纪稍长，每次面临职业选择时，我都会扪心自问，“我的这个选择能让这个社会变得更加公平吗？” 如果我发现自己无法满怀信心地给出肯定的回答，那我就会重新衡量我的选择与重心，去寻找那些真正激励我的职业。我在2013年认识与了解微爱创始团队，自那以来，我始终认同他们的愿景与使命，因为它们与我个人对于建设公平社会的理想非常契合。因此，水到渠成，我随后自发积极参与微爱的建设。我保持跟进微爱的动态，感动于微爱人的团结与恒心，以及他们所坚守的高尚使命。微爱与微爱人，是教育精神与社会责任的典范。"
+          "label": "为什么加入微爱",
+          "value": "In A Theory of Justice, John Rawls describes a just society as a society which, if you knew everything about it, you would willingly choose to be born into that society in a random place. I’ve long upheld this ideal -- of a society in which anyone could be born at any time and in any place without fear of lacking access to education, resources, capital, and upward mobility -- as the litmus test of a truly equitable society. And as I’ve grown older, I’ve found myself asking with every career decision: “With this choice, am I working towards a more just society?” If I cannot confidently answer “yes” to this question, it prompts me to rethink my priorities and motivations.\n\nEver since I met Xiao Chen in 2013, I’ve been a supporter of his vision and mission because they affirm the ideals of an equitable society that I myself strive towards. Taking a more active role in supporting Caritai was therefore a natural progression. I continue to look forward to updates from the Caritai community, and appreciate the cohesion and perseverance of its members, as well as the nobleness of the mission as a whole. Caritai and its community are models of excellence for education and society.\n\n假使你能事先知晓它的一切设置，你也会愿意在其中以任何出身开始你的人生。我一直坚信，检验一个社会真正公平与否的试金石，要看它的任何一员，无论出生于何时何地、何种状况，是否都有通畅的渠道来接受教育、积累财富、追寻幸福。当我年纪稍长，每次面临职业选择时，我都会扪心自问，“我的这个选择能让这个社会变得更加公平吗？” 如果我发现自己无法满怀信心地给出肯定的回答，那我就会重新衡量我的选择与重心，去寻找那些真正激励我的职业。我在2013年认识与了解微爱创始团队，自那以来，我始终认同他们的愿景与使命，因为它们与我个人对于建设公平社会的理想非常契合。因此，水到渠成，我随后自发积极参与微爱的建设。我保持跟进微爱的动态，感动于微爱人的团结与恒心，以及他们所坚守的高尚使命。微爱与微爱人，是教育精神与社会责任的典范。"
         }
       ]
     },
@@ -2556,8 +2484,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n在工作和生活中都能坚持着自己热爱并笃信的事情。\n\nI have been able to uphold what I love and believe in, both in work and in life."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n加入微爱是个自然而然的过程，最吸引我的还是微爱的人。和有梦想的人一起干一件有梦想的事情，并且跟着这个集体共同成长，是件很幸运的事情。我希望能够和微爱一起，为中国高等教育的进步与改变做出一点点贡献。\n\nI was most inspired by Caritai’s people and my participation in Caritai was a natural process. I feel fortunate to collaborate with a cohort of people, to pursue our shared ideals, and to grow together as a community. I hope to be part of Caritai and make contributions to the advancement of China's higher education."
+          "label": "为什么加入微爱",
+          "value": "加入微爱是个自然而然的过程，最吸引我的还是微爱的人。和有梦想的人一起干一件有梦想的事情，并且跟着这个集体共同成长，是件很幸运的事情。我希望能够和微爱一起，为中国高等教育的进步与改变做出一点点贡献。\n\nI was most inspired by Caritai’s people and my participation in Caritai was a natural process. I feel fortunate to collaborate with a cohort of people, to pursue our shared ideals, and to grow together as a community. I hope to be part of Caritai and make contributions to the advancement of China's higher education."
         }
       ]
     },
@@ -2591,8 +2519,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n作为孩子的妈妈。\n\nI am a proud mother of my children."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n微爱的初创团队曾向我咨询微爱未央非营利管理的模型，我了解到微爱的故事与使命，认同微爱的价值观，欣赏这样积极热情的团队。我希望可以通过自己所能，既见证优秀团队的成长，实现微爱的理念和梦想，同时期待微爱团队所帮助到的小伙伴们有更值得期待的未来。\n\nI was consulted by Caritai's founders on non-profit operation models. I learned about the stories and mission behind Caritai and I acknowledge Caritai's values and passionate people. I hope to do my best to help the Caritai team fulfill their ideals and help our students grow and have a meaningful and exciting future."
+          "label": "为什么加入微爱",
+          "value": "微爱的初创团队曾向我咨询微爱未央非营利管理的模型，我了解到微爱的故事与使命，认同微爱的价值观，欣赏这样积极热情的团队。我希望可以通过自己所能，既见证优秀团队的成长，实现微爱的理念和梦想，同时期待微爱团队所帮助到的小伙伴们有更值得期待的未来。\n\nI was consulted by Caritai's founders on non-profit operation models. I learned about the stories and mission behind Caritai and I acknowledge Caritai's values and passionate people. I hope to do my best to help the Caritai team fulfill their ideals and help our students grow and have a meaningful and exciting future."
         }
       ]
     },
@@ -2626,8 +2554,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n勇于选择自己的发展方向，在重要的生命节点上做正确的事情。\n\nI was able to summon the courage to choose my future direction and make the right decisions at critical moments in my life."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n志趣相投的人在一起，志趣会得到升华，这是木秀于林的原理。微爱人凝聚的氛围和精神是我加入微爱的动力。\n\nPeople who are united by a common mission will drive that mission further. The cohesion and spirit of Caritai’s people inspired me to become part of Caritai."
+          "label": "为什么加入微爱",
+          "value": "志趣相投的人在一起，志趣会得到升华，这是木秀于林的原理。微爱人凝聚的氛围和精神是我加入微爱的动力。\n\nPeople who are united by a common mission will drive that mission further. The cohesion and spirit of Caritai’s people inspired me to become part of Caritai."
         }
       ]
     },
@@ -2661,8 +2589,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n我认同工作的价值，全身心投入，工作一直可以得到组织认可，两份工作均提前转正。\n\nI take great pride in my profession and am fully dedicated to my work. My contributions are always recognized by my organizations and I receive promotions ahead of schedule in both of my workplaces."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n因为认同微爱精神加入，微爱的团队是喧嚣生活中的一片净土。\n\nI joined Caritai because I identify with their ideals. The Caritai community feels like a pure sanctuary amidst the hustle and bustle in life."
+          "label": "为什么加入微爱",
+          "value": "因为认同微爱精神加入，微爱的团队是喧嚣生活中的一片净土。\n\nI joined Caritai because I identify with their ideals. The Caritai community feels like a pure sanctuary amidst the hustle and bustle in life."
         }
       ]
     },
@@ -2696,8 +2624,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n从小就爱看书，现在能在图书馆工作，不能更满意呢。\n\nI have been a fan of reading since I was small, and now I work in a library. Nothing can be more satisfactory than this."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n曾经想为中国大学生做的事，微爱正在实现。现在我正在带领一个小组，愿景是持续地在这座城市里带领和服侍，用生命影响生命，帮助他们成长，造就他人。\n\nI have always wanted to do some services for university students in China, a mission that Caritai is carrying out right now. Now I am leading a group and my vision is to continue to serve in my city and influence and develop other lives with my own."
+          "label": "为什么加入微爱",
+          "value": "曾经想为中国大学生做的事，微爱正在实现。现在我正在带领一个小组，愿景是持续地在这座城市里带领和服侍，用生命影响生命，帮助他们成长，造就他人。\n\nI have always wanted to do some services for university students in China, a mission that Caritai is carrying out right now. Now I am leading a group and my vision is to continue to serve in my city and influence and develop other lives with my own."
         }
       ]
     },
@@ -2731,8 +2659,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n组织了国内最大的一场大学生黑客马拉松，这场活动聚集了150名来自世界各地的大学生并产生了很多有意思的项目。\n\nI organized one of China's largest collegiate hackathons that brought together 150+ students from around the world to build cool products."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n作为曾经有需要的第一代大学生，我深感机会和资源在教育里对学生们所能够带来的深远影响。 微爱始终坚守着推动教育公平的使命，朝着更好的方向进发。我很荣幸能够在其中，贡献一份绵薄之力。\n\nAs a first-generation college student myself once in need, I understood how significant a role opportunities and mentorship could play in this uphill battle. Caritai's mission to drive positive changes through educational equality has resonated with me from its beginning and I feel fortunate to be part of the team."
+          "label": "为什么加入微爱",
+          "value": "作为曾经有需要的第一代大学生，我深感机会和资源在教育里对学生们所能够带来的深远影响。 微爱始终坚守着推动教育公平的使命，朝着更好的方向进发。我很荣幸能够在其中，贡献一份绵薄之力。\n\nAs a first-generation college student myself once in need, I understood how significant a role opportunities and mentorship could play in this uphill battle. Caritai's mission to drive positive changes through educational equality has resonated with me from its beginning and I feel fortunate to be part of the team."
         }
       ]
     },
@@ -2766,8 +2694,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n我是一个基督徒，上帝对我的带领是我生命里最特别的事情。\n\nI am a Christian and I feel the guiding and calling from God are the most special things in my life."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n我喜欢大学生这个群体，觉得学生们很单纯，充满生命力，但同时也难免迷茫，我当年也有很多迷茫的时刻，最终能够走出来，我很感恩，所以希望能把自己的经历和资源分享给同学们，希望能帮助到大家。我认为微爱的人是纯粹的，有赤子之心的感觉。在一个复杂的世界中有这样简单又值得信任的关系很难得，这是我认为特别值得珍惜的。另外，在微爱的人身上，不论是创始人和每一届的学生，我都看到了坚持，那不是为了钱、权或者任何其他物质性的目的，就是一种热爱和责任感，这种对善良的折射也是微爱很特别的地方。真的就像名字“微爱”一样，很微小，但是是实实在在的爱，让人觉得很真诚，很踏实。\n\nI like the undergraduate student community - they are pure and energetic but can also inevitably get confused sometimes. I was also disoriented before but thankfully I was able to find my direction. Therefore, I hope to share my experiences and resources with students and help them grow. I feel Caritai people all have a genuine and passionate heart. It is particularly precious to find and keep such simple and mutual trust with others in this complex world. Additionally, I see perseverance in every \"Caritaier\", no natter students or founding members, that is not for wealth, power, or any other material purposes. It is pure passion and citizenship. The emphasis on kindness is special of Caritai. Just as the meaning of her name, \"Caritas + Ai (love)\", Caritai is a small organization but its love is real, and makes people feel genuine and reassured."
+          "label": "为什么加入微爱",
+          "value": "我喜欢大学生这个群体，觉得学生们很单纯，充满生命力，但同时也难免迷茫，我当年也有很多迷茫的时刻，最终能够走出来，我很感恩，所以希望能把自己的经历和资源分享给同学们，希望能帮助到大家。我认为微爱的人是纯粹的，有赤子之心的感觉。在一个复杂的世界中有这样简单又值得信任的关系很难得，这是我认为特别值得珍惜的。另外，在微爱的人身上，不论是创始人和每一届的学生，我都看到了坚持，那不是为了钱、权或者任何其他物质性的目的，就是一种热爱和责任感，这种对善良的折射也是微爱很特别的地方。真的就像名字“微爱”一样，很微小，但是是实实在在的爱，让人觉得很真诚，很踏实。\n\nI like the undergraduate student community - they are pure and energetic but can also inevitably get confused sometimes. I was also disoriented before but thankfully I was able to find my direction. Therefore, I hope to share my experiences and resources with students and help them grow. I feel Caritai people all have a genuine and passionate heart. It is particularly precious to find and keep such simple and mutual trust with others in this complex world. Additionally, I see perseverance in every \"Caritaier\", no natter students or founding members, that is not for wealth, power, or any other material purposes. It is pure passion and citizenship. The emphasis on kindness is special of Caritai. Just as the meaning of her name, \"Caritas + Ai (love)\", Caritai is a small organization but its love is real, and makes people feel genuine and reassured."
         }
       ]
     },
@@ -2801,8 +2729,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n心无旁骛地研究一件事，一件事研究很多年。\n\nI have been able to fully concentrate on researching one thing for many years."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)\n\n微爱是一群有志而独立的个体组成的青年社区，让这个社区里的每个个体取长补短，无所不能。\n\nCaritai is a community of thoughtful and independent youth. They bring together complementary skills and strengths and collectively make a highly capable and versatile team."
+          "label": "为什么加入微爱",
+          "value": "微爱是一群有志而独立的个体组成的青年社区，让这个社区里的每个个体取长补短，无所不能。\n\nCaritai is a community of thoughtful and independent youth. They bring together complementary skills and strengths and collectively make a highly capable and versatile team."
         }
       ]
     },
@@ -2836,16 +2764,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n本科期间，独自骑着一辆破旧的自行车，花了两天时间从武汉骑回家，期间还爬了家乡的一座山，来了一场说走就走的旅行。\n\nOn a whim, I decided to take a two-day trip alone on my shabby bike from Wuhan to my hometown and even went over a mountain on my way."
         },
         {
-          "label": "你为什么愿意加入微爱",
-          "value": "微爱给你怎样的印象？\n\n(Why were you willing to be part of Caritai? How do you feel about Caritai?)"
-        },
-        {
           "label": "为什么加入微爱",
-          "value": "我出生于农村，进入大学前自己仿佛就是一张白纸，我希望微爱能够给更多具有类似经历的大学生提供一个成长的平台，通过这个平台他们能够让白纸转变成多姿多彩的画卷。"
-        },
-        {
-          "label": "微爱给我的最大的印象",
-          "value": "微爱的学生都有着巨大的潜力，他们的创造力正在令微爱越发具有活力。\n\nI was born in a rural village and my life before university was as simple as a blank canvas. I hope that Caritai can provide a platform to facilitate the growth of students who have experiences similar to mine, and that this platform can turn their canvases into beautiful paintings."
+          "value": "我出生于农村，进入大学前自己仿佛就是一张白纸，我希望微爱能够给更多具有类似经历的大学生提供一个成长的平台，通过这个平台他们能够让白纸转变成多姿多彩的画卷。\n\n微爱的学生都有着巨大的潜力，他们的创造力正在令微爱越发具有活力。\n\nI was born in a rural village and my life before university was as simple as a blank canvas. I hope that Caritai can provide a platform to facilitate the growth of students who have experiences similar to mine, and that this platform can turn their canvases into beautiful paintings."
         }
       ]
     },
@@ -2872,19 +2792,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "令你感到自豪或独特的一件事",
-          "value": "(One thing that makes you feel proud or special)"
+          "value": "(One thing that makes you feel proud or special)\n\n组建业委会、合唱团、戏剧社、足球队、慈善基金、嘉年华等，创建了一个和谐的社区文化，邻里关系至今广为说道。\n\nI created a positive and harmonious culture for my neighborhood through various activities, including building a home-owner association, choir, theater club, soccer team, charitable foundation, and community festivals. My contributions to the community are still highly acknowledged by residents in my neighborhood today."
         },
         {
-          "label": "社区治理，通过各种活动",
-          "value": "组建业委会、合唱团、戏剧社、足球队、慈善基金、嘉年华等，创建了一个和谐的社区文化，邻里关系至今广为说道。\n\nI created a positive and harmonious culture for my neighborhood through various activities, including building a home-owner association, choir, theater club, soccer team, charitable foundation, and community festivals. My contributions to the community are still highly acknowledged by residents in my neighborhood today."
-        },
-        {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n微爱创始团队的积极、温暖的态度特别感染人。微爱认真坚持做一件事。年轻人是未来，帮助他们就是创造美好的未来。\n\nI was inspired by Caritai co-founders' positive and warm attitude and their perseverance and dedication for doing good. Young people are the future of our world, and helping them is creating a beautiful future."
+          "label": "为什么支持微爱",
+          "value": "微爱创始团队的积极、温暖的态度特别感染人。微爱认真坚持做一件事。年轻人是未来，帮助他们就是创造美好的未来。\n\nI was inspired by Caritai co-founders' positive and warm attitude and their perseverance and dedication for doing good. Young people are the future of our world, and helping them is creating a beautiful future."
         }
       ]
     },
@@ -2914,12 +2826,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n大部分时间都可以做到追求本心。\n\nI have been able to follow my heart most of the time."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n多多参与微爱的活动，为微爱的成员们各个阶段遇到的问题出谋划策，一同商讨；微爱给我的印象是一个很有张力的组织，非常有爱，\n\nI would like to participate in Caritai more and be a thoughtful partner of Caritai's members. Caritai is an energetic, cozy and caring organization."
+          "label": "为什么支持微爱",
+          "value": "多多参与微爱的活动，为微爱的成员们各个阶段遇到的问题出谋划策，一同商讨；微爱给我的印象是一个很有张力的组织，非常有爱，\n\nI would like to participate in Caritai more and be a thoughtful partner of Caritai's members. Caritai is an energetic, cozy and caring organization."
         }
       ]
     },
@@ -2949,15 +2857,7 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n在西藏参军两年。\n\nI served in the army in Tibet for 2 years."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)"
-        },
-        {
-          "label": "为什么愿意支持微爱",
+          "label": "为什么支持微爱",
           "value": "微爱的大部分朋友来自母校华中科技大学，大家有一定程度的了解，对创始成员有过接触和了解，靠谱值得信赖；能与一群真诚善良的人同行，幸运且美好。微爱富有激情，真诚，善良，值得信任。\n\nMost of Caritai’s students and friends come from my alma mater HUST, which gives us some shared knowledge and understanding. In addition, I have known the founding members for years and I know they are reliable and trustworthy. It is fortunate and wonderful to walk forward together with a group of genuine and kind-hearted people. Caritai feels passionate, sincere, kind, and trustworthy."
         }
       ]
@@ -2988,12 +2888,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n从高中起作为联合国教科文组织旗下非盈利性组织CISV的中国支部青年区主席长达10年，成功创办并且运营了亚太青年论坛，为当代高中生和普通大学生提供了一个真实的非营利性的国际文化交流平台。\n\nSince I was in high school, I've served for ten years as the Youth Chapter President and a National Junior Representative of China to CISV (a global non-profit organization under UNESCO). I founded and successfully hosted an annual forum for several years, specifically designed to facilitate international cultural exchanges for high school and college students in Asia and Pacific area."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n微爱发起和发展于草根，通过聚集微小的力量给更多家庭背景普通的大学生创造了更多的可能性。这种力量是具有正向的传播能力的，正如星星之火终有一天可以燎原。我们的国家我们的社会需要更多的正能量和无私的善意。\n\nCaritai originated and blossomed from a small grassroots movement, and has created countless possibilities for many university students from ordinary family backgrounds. It started from collecting small contributions and eventually became a powerful social force. Caritai represents kindness, potentiality, and positivity, which, I believe, should be the foundations of the future of the youth."
+          "label": "为什么支持微爱",
+          "value": "微爱发起和发展于草根，通过聚集微小的力量给更多家庭背景普通的大学生创造了更多的可能性。这种力量是具有正向的传播能力的，正如星星之火终有一天可以燎原。我们的国家我们的社会需要更多的正能量和无私的善意。\n\nCaritai originated and blossomed from a small grassroots movement, and has created countless possibilities for many university students from ordinary family backgrounds. It started from collecting small contributions and eventually became a powerful social force. Caritai represents kindness, potentiality, and positivity, which, I believe, should be the foundations of the future of the youth."
         }
       ]
     },
@@ -3023,12 +2919,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n在亚马逊雨林深处和当地部落巫医一起进行死藤水通灵仪式。\n\nI participated in ayahuasca ceremony with a local Shaman in the Amazon jungle."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n微爱的学生都很优秀上进，和他们接触、听他们的故事给予我活力、启发我思考。\n\nI feel continually empowered and enlightened by Cartitai's students. Their stories are truly inspiring and thought-provoking."
+          "label": "为什么支持微爱",
+          "value": "微爱的学生都很优秀上进，和他们接触、听他们的故事给予我活力、启发我思考。\n\nI feel continually empowered and enlightened by Cartitai's students. Their stories are truly inspiring and thought-provoking."
         }
       ]
     },
@@ -3038,19 +2930,19 @@ window.TEAM_DATA = {
       "avatar": "assets/members/en_pzk14.png",
       "fields": [
         {
-          "label": "所在城市（City of residence）",
+          "label": "所在城市 (City of residence)",
           "value": "英国伦敦\n\nLondon, UK"
         },
         {
-          "label": "职务与工作单位（Professional experience）",
+          "label": "职务与工作单位 (Professional experience)",
           "value": "助理教授（运营管理方向），帝国理工学院\n\nAssistant Professor, Operations Management, Imperial College London"
         },
         {
-          "label": "教育经历（Educational background）",
+          "label": "教育经历 (Educational background)",
           "value": "清华大学，工业工程，学士\n\n美国西北大学，运营管理，博士\n\nPh.D., Operations Management, Northwestern University\n\nB.Eng., Industrial Engineering, Tsinghua University"
         },
         {
-          "label": "你的业余爱好（What keeps you busy outside work）",
+          "label": "你的业余爱好 (What keeps you busy outside work)",
           "value": "国标舞，阅读\n\nInternational style ballroom dance, Reading"
         },
         {
@@ -3058,11 +2950,7 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special）\n\n完成博士论文并且论文跨越两个不同的研究领域。\n\nI completed my dissertation, which integrates two separate fields of research."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
+          "label": "为什么支持微爱",
           "value": "How do you feel about Caritai?）\n\n我觉得微爱是一个非常团结温暖和充满热情的团体，每个人都有独特的闪光点，大家可以在分享和交流中开拓视野收获成长。我一直认为在学生时代及早了解校园外的世界和思考人生规划是一件非常重要的事情，而微爱正是一个在这方面能为同学提供帮助的平台。想到我的经历和想法在微爱也许可以帮助到更多年轻的朋友，这就是一件很开心的事情。\n\nI feel Caritai is an extremely cohesive, caring and passionate community, where every individual brings in their unique strengths and thoughts. Through discussion and collaboration, people broaden their horizons and grow towards greater self-fulfillment. I believe that it is vital for students in universities to start learning about the real world and contemplating future plans early. Caritai is precisely the platform that provides such opportunities for students. It is delightful to see that my personal experiences and thoughts might be of help to more younger friends in Caritai."
         }
       ]
@@ -3081,7 +2969,7 @@ window.TEAM_DATA = {
           "value": "上海科技大学，助理教授\n美国西北大学，博士后\n\nAssistant Professor, ShanghaiTech University\nPostdoctoral Researcher, Northwestern University"
         },
         {
-          "label": "教育经历 (Educational background）",
+          "label": "教育经历 (Educational background)",
           "value": "安徽农业大学，工学，硕士\n\n柏林工业大学，自然科学，博士\n\nPh.D., Natural Sciences, Technische Universität Berlin\n\nM.Eng., Anhui Agricultural University"
         },
         {
@@ -3093,12 +2981,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n带好一个高效的研究团队。\n\nI created a highly effective research team for my lab."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n事似微，爱实深。\n\nOrdinary deeds led and persevered by extraordinary love."
+          "label": "为什么支持微爱",
+          "value": "事似微，爱实深。\n\nOrdinary deeds led and persevered by extraordinary love."
         }
       ]
     },
@@ -3128,12 +3012,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n我为自身的存在而自豪，我并不需要做什么去证明自己。每个人都是独特的。\n\nI feel proud of being myself and that I don't have to do anything to prove it. Every individual has their own unique worth."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n帮助第一代大学生寻找人生航线的方向是一件有意义的事情。微爱有一群充满了光明、追求爱和理性的年轻人。\n\nIt is a meaningful mission to support first-generation college students and help them explore their life journeys. Caritai is a cohort of young people who are bright, and pursue societal wellness and rational thinking."
+          "label": "为什么支持微爱",
+          "value": "帮助第一代大学生寻找人生航线的方向是一件有意义的事情。微爱有一群充满了光明、追求爱和理性的年轻人。\n\nIt is a meaningful mission to support first-generation college students and help them explore their life journeys. Caritai is a cohort of young people who are bright, and pursue societal wellness and rational thinking."
         }
       ]
     },
@@ -3163,12 +3043,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n用两年时间，在菲律宾带出一群本土专家级经理人。\n\nI developed a group of local experts in management within only two years in the Philippines."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n我希望与有需要同学分享一些经验，少走些弯路；提供力所能及的帮助。微爱聚集了一群纯粹的人，有纯粹的奉献、分享、交流。\n\nI hope to share my personal experiences with students to help them circumvent pitfalls and provide support towards their success. Caritai gathers a group of genuine people. Genuine service, sharing, and communication take place here."
+          "label": "为什么支持微爱",
+          "value": "我希望与有需要同学分享一些经验，少走些弯路；提供力所能及的帮助。微爱聚集了一群纯粹的人，有纯粹的奉献、分享、交流。\n\nI hope to share my personal experiences with students to help them circumvent pitfalls and provide support towards their success. Caritai gathers a group of genuine people. Genuine service, sharing, and communication take place here."
         }
       ]
     },
@@ -3198,12 +3074,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n今年是独特的一年，刚好疫情期间在武汉陪伴家人。\n\nI spent most of the unique year of 2020 in Wuhan taking care of my family."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n相信、认同创始团队的愿景，希望华科同学有更多机会发展自己\n\n我们每个人微微的爱在这里汇聚起来，微爱的同学们组织的非常好！\n\nI have faith in the vision of Caritai's founders and endeavor to create more development opportunities for university students. Every small piece of compassion we give nourishes the Caritai community, and I am very pleased to see our students capable of managing and developing this organization."
+          "label": "为什么支持微爱",
+          "value": "相信、认同创始团队的愿景，希望华科同学有更多机会发展自己\n\n我们每个人微微的爱在这里汇聚起来，微爱的同学们组织的非常好！\n\nI have faith in the vision of Caritai's founders and endeavor to create more development opportunities for university students. Every small piece of compassion we give nourishes the Caritai community, and I am very pleased to see our students capable of managing and developing this organization."
         }
       ]
     },
@@ -3233,12 +3105,8 @@ window.TEAM_DATA = {
           "value": "(One thing that makes you feel proud or special)\n\n做一位热心的公民，前一阵晚间大风刮倒了一棵大树挡住了国道四分之三，我几经波折联系到管理部门令其及时知晓处理。\n\nI am a responsible citizen. I saw a fallen tree that blocked a national highway on a windy night. I tried multiple ways to reach their management department and solved this danger in time."
         },
         {
-          "label": "你为什么愿意支持微爱",
-          "value": "微爱给你怎样的印象？"
-        },
-        {
-          "label": "(Why were you willing to support Caritai",
-          "value": "How do you feel about Caritai?)\n\n因为我本身就是微爱的受益者，想传递这份温暖给需要的人。微爱给我的印象是真诚、学习、探索、热情。\n\nI was a beneficiary of Caritai myself as an undergraduate and I would like to pay it forward and help others. Caritai characterizes sincerity, learning, exploration, and passion."
+          "label": "为什么支持微爱",
+          "value": "因为我本身就是微爱的受益者，想传递这份温暖给需要的人。微爱给我的印象是真诚、学习、探索、热情。\n\nI was a beneficiary of Caritai myself as an undergraduate and I would like to pay it forward and help others. Caritai characterizes sincerity, learning, exploration, and passion."
         }
       ]
     },
@@ -3378,15 +3246,15 @@ window.TEAM_DATA = {
           "value": "I enjoy trying various new things and am often called \"full of vitality\" by friends, always energetic."
         },
         {
-          "label": "Why join Caritai",
+          "label": "Reason for joining Caritai",
           "value": "First, I want to access more resources and break down information barriers;Second, through senior schoolmates I know and promotional tweets, I feel that Caritai is a loving organization and have been deeply attracted to it."
         },
         {
-          "label": "What I am good at/skills",
+          "label": "Skills or strengths",
           "value": "Good at communication and making friends"
         },
         {
-          "label": "Where Caritai can use my help",
+          "label": "Where Caritai can utilize me",
           "value": "I am passionate about life and people around me, and can provide positive energy and emotional value. With some experience in student work and a love for organizing activities, I have joined the Caritai Activity Group and hope to plan more events for everyone, injecting more vitality into Caritai!"
         },
         {
@@ -3402,7 +3270,7 @@ window.TEAM_DATA = {
           "value": "Continue to try things I have never done and discover my interests. Improve academic performance and professional capabilities. Find my direction and goals, and strive for them."
         },
         {
-          "label": "Dreams",
+          "label": "Dream",
           "value": "To be a person with a stable core, strength, and tenderness."
         }
       ]
@@ -3421,7 +3289,7 @@ window.TEAM_DATA = {
           "value": "Henan"
         },
         {
-          "label": "Professional Class",
+          "label": "Major and Class",
           "value": "Japanese 2301"
         },
         {
@@ -3429,15 +3297,15 @@ window.TEAM_DATA = {
           "value": "Watching movies, cycling"
         },
         {
-          "label": "Why join Caritai",
+          "label": "Reason for joining Caritai",
           "value": "Because Caritai is a particularly warm, loving, and positive organization. I hope to be illuminated while also illuminating others."
         },
         {
-          "label": "Good at/Skills",
+          "label": "Skills or strengths",
           "value": "Empathy"
         },
         {
-          "label": "Where Caritai can use my help",
+          "label": "Where Caritai can utilize me",
           "value": "I can do all things within my ability and will spare no effort."
         },
         {
@@ -3453,7 +3321,7 @@ window.TEAM_DATA = {
           "value": "Academic progress, more exercise, a healthy schedule, and mastering a new skill"
         },
         {
-          "label": "Dreams",
+          "label": "Dream",
           "value": "Financial freedom, world peace"
         },
         {
@@ -3476,7 +3344,7 @@ window.TEAM_DATA = {
           "value": "Huanggang, Hubei"
         },
         {
-          "label": "Professional Class",
+          "label": "Major and Class",
           "value": "Hydropower 2401"
         },
         {
@@ -3488,11 +3356,11 @@ window.TEAM_DATA = {
           "value": "I have currently studied in eleven different schools."
         },
         {
-          "label": "Why join Caritai",
+          "label": "Reason for joining Caritai",
           "value": "I hope to meet a group of people similar to me, and we can help each other and make progress together."
         },
         {
-          "label": "Where Caritai can use my help",
+          "label": "Where Caritai can utilize me",
           "value": "I will take the tasks given by the big family seriously and do my best to complete them."
         },
         {
@@ -3500,7 +3368,7 @@ window.TEAM_DATA = {
           "value": "Social skills"
         },
         {
-          "label": "Dreams",
+          "label": "Dream",
           "value": "I hope my life is colorful, warm, and meaningful. I don’t seek grandeur, but only no regrets."
         },
         {
@@ -3531,19 +3399,19 @@ window.TEAM_DATA = {
           "value": "I’ve transformed from an introvert (I) to an extrovert (E) within just one month at Huazhong University of Science and Technology!"
         },
         {
-          "label": "Why join Caritai",
+          "label": "Reason for joining Caritai",
           "value": "I hope to help others in more ways, contribute my efforts, and grow together with everyone."
         },
         {
-          "label": "What I am good at/skills",
+          "label": "Skills or strengths",
           "value": "Playing the piano, singing, dancing"
         },
         {
-          "label": "Where Caritai can use my help",
+          "label": "Where Caritai can utilize me",
           "value": "Event planning, copywriting, WeChat official account layout Areas"
         },
         {
-          "label": "I hope to practice and improve",
+          "label": "Areas I hope to practice and improve",
           "value": "Video shooting and editing, event interviewing and hosting, communication skills, deeper understanding of more disciplines (especially science-related fields)"
         },
         {
@@ -3555,7 +3423,7 @@ window.TEAM_DATA = {
           "value": "Learn a new skill"
         },
         {
-          "label": "Dreams",
+          "label": "Dream",
           "value": "Find my suitable field and contribute my strength"
         },
         {
@@ -4151,7 +4019,7 @@ window.TEAM_DATA = {
         },
         {
           "label": "Year of joining Caritai",
-          "value": "2017\n\nHow do you feel about Caritai\n\nEvery Caritai member is so genuine towards each other. It’s a big family where you can talk about everything with others."
+          "value": "2017"
         },
         {
           "label": "One thing you feel proudest of or most special about yourself",
@@ -4197,10 +4065,10 @@ window.TEAM_DATA = {
         },
         {
           "label": "Year of joining Caritai",
-          "value": "2017\n\nHow do you feel about Caritai\n\nCaritai is a home-like place that nourishes members’ growth and encourages each individual to pursue their dreams. Caritai's founders and mentors teach us to give back to society by setting great examples."
+          "value": "2017"
         },
         {
-          "label": "One thing you feel most proudest of or most special about yourself",
+          "label": "One thing you feel proudest of or most special about yourself",
           "value": "I participated in the Garbage Classification Research Project, which was one of the Caritai civic projects.\n\nHow would you like to see yourself when you graduate\n\nI hope to be a well-organized person who is able to undertake more social responsibilities, and of course, get admitted to my dream graduate school."
         }
       ]
@@ -4289,7 +4157,7 @@ window.TEAM_DATA = {
         },
         {
           "label": "Year of joining Caritai",
-          "value": "2019\n\nHow do you feel about Caritai\n\nCaritai is a home-like place, where people feel like siblings to each other regardless of differences in age, major, experience, and character."
+          "value": "2019"
         },
         {
           "label": "One thing you feel proudest of or most special about yourself",
@@ -4312,7 +4180,7 @@ window.TEAM_DATA = {
         },
         {
           "label": "Year of joining Caritai",
-          "value": "2019\n\nHow do you feel about Caritai\n\nIt is a warm family where people help and care about each other. Additionally, every member is self-motivated, ambitious and grateful, which makes Caritai a dynamic organization. Furthermore, through the opportunities Caritai strives to create, students can develop a knowledge of various fields and become well-rounded individuals."
+          "value": "2019"
         },
         {
           "label": "One thing you feel proudest of or most special about yourself",
@@ -4335,10 +4203,10 @@ window.TEAM_DATA = {
         },
         {
           "label": "Year of joining Caritai",
-          "value": "2019\n\nHow do you feel about Caritai"
+          "value": "2019"
         },
         {
-          "label": "Caritai is like a family",
+          "label": "How do you feel about Caritai",
           "value": "warm, friendly and loving."
         },
         {
@@ -4361,11 +4229,11 @@ window.TEAM_DATA = {
           "value": "Mechanic"
         },
         {
-          "label": "Year of Joining Caritai",
+          "label": "Year of joining Caritai",
           "value": "2020"
         },
         {
-          "label": "Reasons for Joining Caritai",
+          "label": "Reason for joining Caritai",
           "value": "Members of Caritai are very enthusiastic and easygoing. I will make friends and learn a lot from my peers and the seniors. I am sure that I will build up my ability in communication, typesetting and leadership.\n\nHobby\n\nListening to music and basketball"
         }
       ]
@@ -4384,11 +4252,11 @@ window.TEAM_DATA = {
           "value": "Electrical Engineering and Automation"
         },
         {
-          "label": "Year of Joining Caritai",
+          "label": "Year of joining Caritai",
           "value": "2020"
         },
         {
-          "label": "Reasons for Joining Caritai",
+          "label": "Reason for joining Caritai",
           "value": "I am willing to share my joy and overcome frustration with friends. I am always glad to organize activities, make friends and learn new skills. I can't wait to improve my social skills and pass on love and positivity.\n\nHobby\n\nReading books, eating noodles, playing tennis, watching live video games, watching detective films"
         }
       ]
@@ -4407,11 +4275,11 @@ window.TEAM_DATA = {
           "value": "Translation"
         },
         {
-          "label": "Year of Joining Caritai",
+          "label": "Year of joining Caritai",
           "value": "2020"
         },
         {
-          "label": "Reasons for Joining Caritai",
+          "label": "Reason for joining Caritai",
           "value": "People from Caritai are very gentle, real and sincere. I am touched. I would like to utilize my strength in information processing and other related work! I am willing to open my mind and learn new things here. In addition, the tenet of Caritai agrees with my devotion to helping others.\n\nHobby\n\nListening to music, travelling and Bian Boxian"
         }
       ]
@@ -4434,7 +4302,7 @@ window.TEAM_DATA = {
           "value": "German"
         },
         {
-          "label": "Reasons for Joining Caritai",
+          "label": "Reason for joining Caritai",
           "value": "I want to help others,  do what I can for society, and obtain some guidance here when I am confused.\n\nHobby\n\nWatercolour painting and reading (horror, science fiction, literature)"
         },
         {
@@ -4461,7 +4329,7 @@ window.TEAM_DATA = {
           "value": "Japanese"
         },
         {
-          "label": "Reasons for Joining Caritai",
+          "label": "Reason for joining Caritai",
           "value": "I want to progress with like-minded people, giving my help when I can. I wish I can make achievements with others making theirs.\n\nHobby\n\nReading, writing, listening to music and playing the guitar"
         },
         {
@@ -4488,7 +4356,7 @@ window.TEAM_DATA = {
           "value": "English"
         },
         {
-          "label": "Reasons for Joining Caritai",
+          "label": "Reason for joining Caritai",
           "value": "Enchanted by Caritai’s concept, I am looking forward to finding like-minded people in this organization, improving my social skills and confidence so that I can be a better self. Hopefully, I can help our junior schoolmates to solve their confusion like how I am helped.\n\nHobby\n\nPhotography, video editing, watching films and cooking."
         },
         {

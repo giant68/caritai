@@ -578,6 +578,8 @@ ul, ol { list-style: none; }
   color: var(--ink);
   line-height: 1.75;
   white-space: pre-line;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 /* 里程碑（关于页） */
