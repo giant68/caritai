@@ -1402,7 +1402,15 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业背景",
-          "value": "金融工程\n\n当前工作与单位\n\n招商银行深圳分行\n\n加入微爱的感受\n\n微爱是一个特别好的人生规划平台，不仅帮助我打开了视野，也让我拥有了用于尝试的勇气。我很庆幸遇见了微爱，她帮助我改变了社交方式，让我变得越来越外向，也让我的大学生活变得充实而自在。"
+          "value": "金融工程"
+        },
+        {
+          "label": "职务与工作单位",
+          "value": "招商银行深圳分行"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "微爱是一个特别好的人生规划平台，不仅帮助我打开了视野，也让我拥有了用于尝试的勇气。我很庆幸遇见了微爱，她帮助我改变了社交方式，让我变得越来越外向，也让我的大学生活变得充实而自在。"
         }
       ]
     },
@@ -1421,7 +1429,15 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业背景",
-          "value": "翻译与口译，金融学\n\n当前工作与单位\n\n雪球\n\n加入微爱的感受\n\n我是最早一批加入微爱的幸运儿之一，加入微爱以后我知道了规划的重要性，于是开始自己去探索自己喜欢的方向，一开始是pass不喜欢的东西，慢慢的找到了自己擅长也喜欢的事情."
+          "value": "翻译与口译，金融学"
+        },
+        {
+          "label": "职务与工作单位",
+          "value": "雪球"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "我是最早一批加入微爱的幸运儿之一，加入微爱以后我知道了规划的重要性，于是开始自己去探索自己喜欢的方向，一开始是pass不喜欢的东西，慢慢的找到了自己擅长也喜欢的事情."
         }
       ]
     },
@@ -1440,7 +1456,15 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业背景",
-          "value": "法语\n\n当前工作与单位\n\n中远海运特种运输股份有限公司\n\n加入微爱的感受\n\n微爱是一个团结友爱的集体，她不仅给予我们互相交流分享的机会，也帮助我在学习和工作中找到正确的道路"
+          "value": "法语"
+        },
+        {
+          "label": "职务与工作单位",
+          "value": "中远海运特种运输股份有限公司"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "微爱是一个团结友爱的集体，她不仅给予我们互相交流分享的机会，也帮助我在学习和工作中找到正确的道路"
         }
       ]
     },
@@ -1459,7 +1483,15 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业背景",
-          "value": "日语\n\n当前工作与单位\n\n学而思教育培训学校，教师\n\n加入微爱的感受\n\n初入大学时，我的成绩不是很拔尖，也不是很自信，但自从加入了微爱大家庭，学长和学姐们的帮助让我找回了自信，也为我指引了方向，这些经历让后来我遇到的事情都变得顺利了很多，也让我在参加工作后希望自己能用微爱的灯去照亮别人。"
+          "value": "日语"
+        },
+        {
+          "label": "职务与工作单位",
+          "value": "学而思教育培训学校，教师"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "初入大学时，我的成绩不是很拔尖，也不是很自信，但自从加入了微爱大家庭，学长和学姐们的帮助让我找回了自信，也为我指引了方向，这些经历让后来我遇到的事情都变得顺利了很多，也让我在参加工作后希望自己能用微爱的灯去照亮别人。"
         }
       ]
     },
@@ -1478,7 +1510,15 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业背景",
-          "value": "翻译与口译\n\n当前工作与单位\n\n腾讯\n\n加入微爱的感受\n\n微爱未央的每一个人都非常愿意真诚地分享自己的经历，每一个人都可以给予你力量。她的真诚与开放，给了我们更多的归属感，让我们在专注于每一件事情的过程中，去不断与扩展自己的认知边界。"
+          "value": "翻译与口译"
+        },
+        {
+          "label": "职务与工作单位",
+          "value": "腾讯"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "微爱未央的每一个人都非常愿意真诚地分享自己的经历，每一个人都可以给予你力量。她的真诚与开放，给了我们更多的归属感，让我们在专注于每一件事情的过程中，去不断与扩展自己的认知边界。"
         }
       ]
     },
@@ -1497,7 +1537,15 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业背景",
-          "value": "法语\n\n当前工作与单位\n\n华为，客户经理\n\n加入微爱的感受\n\n在微爱未央，我们可以和志同道合的朋友一起谈个人成长和精神追求，可以获得来自学长学姐的帮助和关爱，这些经历不仅实在地帮助到了我的求职过程，也让我变得更加沉稳和踏实。"
+          "value": "法语"
+        },
+        {
+          "label": "职务与工作单位",
+          "value": "华为，客户经理"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "在微爱未央，我们可以和志同道合的朋友一起谈个人成长和精神追求，可以获得来自学长学姐的帮助和关爱，这些经历不仅实在地帮助到了我的求职过程，也让我变得更加沉稳和踏实。"
         }
       ]
     },
@@ -1516,7 +1564,15 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业背景",
-          "value": "德语\n\n当前工作与单位\n\n北京外国语大学\n\n加入微爱的感受\n\n微爱对我来说是一个温馨的家，成员们一起携手成长，在实践中锻炼自己，有什么想要分享的都可以和这个大家庭里的人说，有困难也能寻求到建议和帮助，每个人又不仅仅是受益者，同时也是发光照亮别人的人，始终陪伴在迷茫或者想要倾诉的同伴身边，分享欢乐，也提供建议，这很难得。"
+          "value": "德语"
+        },
+        {
+          "label": "职务与工作单位",
+          "value": "北京外国语大学"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "微爱对我来说是一个温馨的家，成员们一起携手成长，在实践中锻炼自己，有什么想要分享的都可以和这个大家庭里的人说，有困难也能寻求到建议和帮助，每个人又不仅仅是受益者，同时也是发光照亮别人的人，始终陪伴在迷茫或者想要倾诉的同伴身边，分享欢乐，也提供建议，这很难得。"
         }
       ]
     },
@@ -1535,7 +1591,15 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业背景",
-          "value": "华中科技大学，英语语言与文学，学士\n\n当前工作与单位\n\n跟谁学高途课堂，管培生\n\n加入微爱的感受\n\n在微爱未央，我遇到了成长的伙伴和帮帮团的学长学姐们，也拥有了成长的舞台和锻炼的机会，慢慢的我也逐渐摆脱初入大学时的自卑，成为一个自信的、眼界开阔、全方位成长的人。"
+          "value": "华中科技大学，英语语言与文学，学士"
+        },
+        {
+          "label": "职务与工作单位",
+          "value": "跟谁学高途课堂，管培生"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "在微爱未央，我遇到了成长的伙伴和帮帮团的学长学姐们，也拥有了成长的舞台和锻炼的机会，慢慢的我也逐渐摆脱初入大学时的自卑，成为一个自信的、眼界开阔、全方位成长的人。"
         }
       ]
     },
@@ -1554,7 +1618,15 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业背景",
-          "value": "德语\n\n当前工作与单位\n\n恒大地产集团\n\n加入微爱的感受\n\n每当回想起微爱，脑海中都是当时聚在一起的片段，她是一个让人有归属感的组织，每一个人都在这里传递着美好和善良。"
+          "value": "德语"
+        },
+        {
+          "label": "职务与工作单位",
+          "value": "恒大地产集团"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "每当回想起微爱，脑海中都是当时聚在一起的片段，她是一个让人有归属感的组织，每一个人都在这里传递着美好和善良。"
         }
       ]
     },
@@ -1573,7 +1645,15 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业背景",
-          "value": "日语\n\n当前工作与单位\n\n出海电商公司（棒谷科技），产品经理\n\n加入微爱的感受\n\n微爱未央是一个温暖的组织，在这里可以和志同道合的朋友一起进步，一起努力；可以在各种讲座里遇见不同的人，经历不同的人生，也让自己在人生规划和选择时有了更多的榜样和参考。"
+          "value": "日语"
+        },
+        {
+          "label": "职务与工作单位",
+          "value": "出海电商公司（棒谷科技），产品经理"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "微爱未央是一个温暖的组织，在这里可以和志同道合的朋友一起进步，一起努力；可以在各种讲座里遇见不同的人，经历不同的人生，也让自己在人生规划和选择时有了更多的榜样和参考。"
         }
       ]
     },
@@ -1592,7 +1672,15 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业背景",
-          "value": "华中科技大学，英语语言与文学，国际商务，学士\n\n南开大学，翻译与口译，硕士（在读）\n\n当前工作与单位\n\n南开大学，研究生\n\n加入微爱的感受\n\n学长学姐们给了我们许多非常有用的建议与指导，他们的价值观也在潜移默化地影响着我，例如陈骁学长就一直鼓励我要“dream big”，虽然有时自己会因为担心能力不足而在做选择的时候畏畏缩缩，但更多的时候还是鼓励自己think big & dream big"
+          "value": "华中科技大学，英语语言与文学，国际商务，学士\n\n南开大学，翻译与口译，硕士（在读）"
+        },
+        {
+          "label": "职务与工作单位",
+          "value": "南开大学，研究生"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "学长学姐们给了我们许多非常有用的建议与指导，他们的价值观也在潜移默化地影响着我，例如陈骁学长就一直鼓励我要“dream big”，虽然有时自己会因为担心能力不足而在做选择的时候畏畏缩缩，但更多的时候还是鼓励自己think big & dream big"
         }
       ]
     },
@@ -1611,7 +1699,15 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业背景",
-          "value": "日语\n\n当前工作与单位\n\n安永会计师事务所\n\n加入微爱的感受\n\n在微爱这三年，我真真切切地感受到了各位导师对我们的人文关怀，这种关怀让我的自我意识逐渐苏醒和在迷茫的大学生活中找到了方向与斗志，通过参加微爱组织的一系列的实践活动让我看到一个辽阔、精彩的世界，我对自己的能力产生了自信；对自己的人生方向有了大致的想法。"
+          "value": "日语"
+        },
+        {
+          "label": "职务与工作单位",
+          "value": "安永会计师事务所"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "在微爱这三年，我真真切切地感受到了各位导师对我们的人文关怀，这种关怀让我的自我意识逐渐苏醒和在迷茫的大学生活中找到了方向与斗志，通过参加微爱组织的一系列的实践活动让我看到一个辽阔、精彩的世界，我对自己的能力产生了自信；对自己的人生方向有了大致的想法。"
         }
       ]
     },
@@ -1630,7 +1726,15 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业背景",
-          "value": "华中科技大学，翻译，学士\n美国宾夕法尼亚大学，计算机与信息技术，硕士（在读）\n\n当前工作与单位\n\n安永会计师事务所，内容运营实习生\n猿辅导，人力资源实习生\n\n加入微爱的感受\n\n这是一群人凭着热忱以及大爱无私地分享经验和学识的组织——微爱，绝不是“微爱”。大二转专业后，有幸加入微爱，认识了许多来自外国语学院的新同学以及学长学姐。不论是大二创意发明大赛失利，还是最近面临要不要回校读研的艰难抉择，有难解的困惑我都会想起微爱的同学们。他们是我的伙伴、朋友，导师。我会努力向他们一样，将这份大爱传承下去。"
+          "value": "华中科技大学，翻译，学士\n美国宾夕法尼亚大学，计算机与信息技术，硕士（在读）"
+        },
+        {
+          "label": "职务与工作单位",
+          "value": "安永会计师事务所，内容运营实习生\n猿辅导，人力资源实习生"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "这是一群人凭着热忱以及大爱无私地分享经验和学识的组织——微爱，绝不是“微爱”。大二转专业后，有幸加入微爱，认识了许多来自外国语学院的新同学以及学长学姐。不论是大二创意发明大赛失利，还是最近面临要不要回校读研的艰难抉择，有难解的困惑我都会想起微爱的同学们。他们是我的伙伴、朋友，导师。我会努力向他们一样，将这份大爱传承下去。"
         }
       ]
     },
@@ -1668,7 +1772,19 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业",
-          "value": "英语+国际商务1701\n\n对微爱的感受\n\n家一样的组织\n\n感到最自豪或独特的一件经历\n\n有帮帮团导师的指引\n\n希望在毕业时成为怎样的自己\n\n更加接受自己的自己"
+          "value": "英语+国际商务1701"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "家一样的组织"
+        },
+        {
+          "label": "令你感到自豪或独特的一件事",
+          "value": "有帮帮团导师的指引"
+        },
+        {
+          "label": "希望在毕业时成为怎样的自己",
+          "value": "更加接受自己的自己"
         }
       ]
     },
@@ -1687,7 +1803,19 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业",
-          "value": "德语1701\n\n对微爱的感受\n\n完美契合了我原来对大学组织的想象，无论是在思想上还是三观的形成上都具有无可取代的积极作用，希望微爱大家庭能够愈发繁荣\n\n感到最自豪或独特的一件经历\n\n孤身一人，凭借铁路和步行花费两周游历西欧诸国。\n\n希望在毕业时成为怎样的自己\n\n希望能够不留遗憾，成为一个对未来充满信心与希望，坚强温柔的人。"
+          "value": "德语1701"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "完美契合了我原来对大学组织的想象，无论是在思想上还是三观的形成上都具有无可取代的积极作用，希望微爱大家庭能够愈发繁荣"
+        },
+        {
+          "label": "令你感到自豪或独特的一件事",
+          "value": "孤身一人，凭借铁路和步行花费两周游历西欧诸国。"
+        },
+        {
+          "label": "希望在毕业时成为怎样的自己",
+          "value": "希望能够不留遗憾，成为一个对未来充满信心与希望，坚强温柔的人。"
         }
       ]
     },
@@ -1706,7 +1834,15 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业背景",
-          "value": "翻译\n\n当前工作与单位\n\n思考乐教育，教师\n\n加入微爱的感受\n\n微爱的三年经历，让我拥有了深刻的自我认知，开阔了我的人生视野，也帮助我找到了正确的人生方向。现在的我从微爱成员变成了微爱校友，我将把微爱带给我的希望，继续传播下去。"
+          "value": "翻译"
+        },
+        {
+          "label": "职务与工作单位",
+          "value": "思考乐教育，教师"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "微爱的三年经历，让我拥有了深刻的自我认知，开阔了我的人生视野，也帮助我找到了正确的人生方向。现在的我从微爱成员变成了微爱校友，我将把微爱带给我的希望，继续传播下去。"
         }
       ]
     },
@@ -1725,7 +1861,19 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业",
-          "value": "英语+国际商务\n\n对微爱的感受\n\n这里的每个人都很真诚，是一个可以敞开心扉，和彼此交流的大家庭\n\n感到最自豪或独特的一件经历\n\n在沙漠遇到了暴雨\n\n希望在毕业时成为怎样的自己\n\n内心丰富，精神自由，身有长物，勇敢给予和值得被爱的人。"
+          "value": "英语+国际商务"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "这里的每个人都很真诚，是一个可以敞开心扉，和彼此交流的大家庭"
+        },
+        {
+          "label": "令你感到自豪或独特的一件事",
+          "value": "在沙漠遇到了暴雨"
+        },
+        {
+          "label": "希望在毕业时成为怎样的自己",
+          "value": "内心丰富，精神自由，身有长物，勇敢给予和值得被爱的人。"
         }
       ]
     },
@@ -1744,7 +1892,19 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业",
-          "value": "英语+国际商务\n\n对微爱的感受\n\n一个大家庭,一家人共同成长。\n\n感到最自豪或独特的一件经历\n\n挂职广水团市委时作为青年宣讲团成员前往十余个乡镇给近千名团干部进行宣讲。\n\n希望在毕业时成为怎样的自己\n\n不辜负四年里学到的知识和独特的体验。"
+          "value": "英语+国际商务"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "一个大家庭,一家人共同成长。"
+        },
+        {
+          "label": "令你感到自豪或独特的一件事",
+          "value": "挂职广水团市委时作为青年宣讲团成员前往十余个乡镇给近千名团干部进行宣讲。"
+        },
+        {
+          "label": "希望在毕业时成为怎样的自己",
+          "value": "不辜负四年里学到的知识和独特的体验。"
         }
       ]
     },
@@ -1763,7 +1923,19 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业",
-          "value": "德语\n\n对微爱的感受\n\n加入微爱已经两年了，从最开始的和大家不熟悉，不知道怎么做，受到学长学姐的关心到现在对微爱越来越熟悉，大家在一起就像是一个大家庭一样，希望微爱能够越来越好。\n\n感到最自豪或独特的一件经历\n\n小学的时候一块石头砸伤了右眼睛，体会了几天失明的日子，从那之后所有人都说我性情大变，之前就很调皮任性，但在那之后就稳重了许多。那次就感觉像是一次觉醒。\n\n希望在毕业时成为怎样的自己\n\n阳光乐观，做事认真"
+          "value": "德语"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "加入微爱已经两年了，从最开始的和大家不熟悉，不知道怎么做，受到学长学姐的关心到现在对微爱越来越熟悉，大家在一起就像是一个大家庭一样，希望微爱能够越来越好。"
+        },
+        {
+          "label": "令你感到自豪或独特的一件事",
+          "value": "小学的时候一块石头砸伤了右眼睛，体会了几天失明的日子，从那之后所有人都说我性情大变，之前就很调皮任性，但在那之后就稳重了许多。那次就感觉像是一次觉醒。"
+        },
+        {
+          "label": "希望在毕业时成为怎样的自己",
+          "value": "阳光乐观，做事认真"
         }
       ]
     },
@@ -1782,7 +1954,19 @@ window.TEAM_DATA = {
         },
         {
           "label": "专业",
-          "value": "广告\n\n对微爱的感受\n\n微爱是一个很温暖的地方，大家聚在一起不是为了完成某项任务，而是为了分享人生经历、感悟，以及互帮互助。每次的讲座以及和学长学姐的讨论都让我看到了一个更广阔的世界，让我成为一个更好的人，我非常感谢微爱。\n\n感到最自豪或独特的一件经历\n\n自从决定出国以来，我把自己关在家里备考雅思，克服了懒散、爱玩手机的毛病，首考取得了7.5的好成绩，直接达到了所申请学校的要求。\n\n希望在毕业时成为怎样的自己\n\n毕业时，我希望自己能够申请到心仪的学校，并且对未来的道路认知更加清晰，并且希望利用大四的时间多看书、多实习，成为更有深度的人。"
+          "value": "广告"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "微爱是一个很温暖的地方，大家聚在一起不是为了完成某项任务，而是为了分享人生经历、感悟，以及互帮互助。每次的讲座以及和学长学姐的讨论都让我看到了一个更广阔的世界，让我成为一个更好的人，我非常感谢微爱。"
+        },
+        {
+          "label": "令你感到自豪或独特的一件事",
+          "value": "自从决定出国以来，我把自己关在家里备考雅思，克服了懒散、爱玩手机的毛病，首考取得了7.5的好成绩，直接达到了所申请学校的要求。"
+        },
+        {
+          "label": "希望在毕业时成为怎样的自己",
+          "value": "毕业时，我希望自己能够申请到心仪的学校，并且对未来的道路认知更加清晰，并且希望利用大四的时间多看书、多实习，成为更有深度的人。"
         }
       ]
     },
@@ -1801,7 +1985,19 @@ window.TEAM_DATA = {
         },
         {
           "label": "加入微爱的年份",
-          "value": "2019\n\n对微爱的感受\n\n温暖、亲切、有爱，像一个大家庭。\n\n感到最自豪或独特的一件经历\n\n现在觉得能够加入微爱就是一个非常独特的经历，在微爱这个大家庭里认识了很多优秀的朋友！\n\n希望在毕业时成为怎样的自己\n\n自信，落落大方，各方面能力和技能全面提升"
+          "value": "2019"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "温暖、亲切、有爱，像一个大家庭。"
+        },
+        {
+          "label": "令你感到自豪或独特的一件事",
+          "value": "现在觉得能够加入微爱就是一个非常独特的经历，在微爱这个大家庭里认识了很多优秀的朋友！"
+        },
+        {
+          "label": "希望在毕业时成为怎样的自己",
+          "value": "自信，落落大方，各方面能力和技能全面提升"
         }
       ]
     },
@@ -1820,7 +2016,19 @@ window.TEAM_DATA = {
         },
         {
           "label": "加入微爱的年份",
-          "value": "2019\n\n对微爱的感受\n\n微爱像一个大家庭，大家彼此相互关心、相互照顾；然后是积极向上，群体里每一个人都有梦想、都心怀感恩，努力做更好的自己；最后是发展的机会，在这个团队里，我们可以学到的有很多，而且并不局限于某一领域，团队努力创造机会让我们全面发展。\n\n感到最自豪或独特的一件经历\n\n以前我害怕在公众面前发言，很多时候错过一些机会比如高中国旗下讲话之类的，但是大学尤其是加入微爱以来，我开始负责讲座安排，慢慢克服了心里的一些障碍，算是我的一种进步，是我比较自豪的一件事。\n\n希望在毕业时成为怎样的自己\n\n希望我变得优秀、更加自信，能更好地适应和回馈社会，同时保持本心。"
+          "value": "2019"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "微爱像一个大家庭，大家彼此相互关心、相互照顾；然后是积极向上，群体里每一个人都有梦想、都心怀感恩，努力做更好的自己；最后是发展的机会，在这个团队里，我们可以学到的有很多，而且并不局限于某一领域，团队努力创造机会让我们全面发展。"
+        },
+        {
+          "label": "令你感到自豪或独特的一件事",
+          "value": "以前我害怕在公众面前发言，很多时候错过一些机会比如高中国旗下讲话之类的，但是大学尤其是加入微爱以来，我开始负责讲座安排，慢慢克服了心里的一些障碍，算是我的一种进步，是我比较自豪的一件事。"
+        },
+        {
+          "label": "希望在毕业时成为怎样的自己",
+          "value": "希望我变得优秀、更加自信，能更好地适应和回馈社会，同时保持本心。"
         }
       ]
     },
@@ -1839,7 +2047,19 @@ window.TEAM_DATA = {
         },
         {
           "label": "加入微爱的年份",
-          "value": "2019\n\n对微爱的感受\n\n微爱就像是一个大家庭，所以成员，不论年龄，专业，性格和经历，都是彼此的亲人一般的存在。\n\n感到最自豪或独特的一件经历\n\n一遍过拿到了驾照——成年后的第一个证书。\n\n希望在毕业时成为怎样的自己\n\n专业课精通，基本功扎实，具备核心技能；博学而自知，谦逊而大智；待人真诚，积极乐观，波澜不惊，保持初心。"
+          "value": "2019"
+        },
+        {
+          "label": "加入微爱的感受",
+          "value": "微爱就像是一个大家庭，所以成员，不论年龄，专业，性格和经历，都是彼此的亲人一般的存在。"
+        },
+        {
+          "label": "令你感到自豪或独特的一件事",
+          "value": "一遍过拿到了驾照——成年后的第一个证书。"
+        },
+        {
+          "label": "希望在毕业时成为怎样的自己",
+          "value": "专业课精通，基本功扎实，具备核心技能；博学而自知，谦逊而大智；待人真诚，积极乐观，波澜不惊，保持初心。"
         }
       ]
     },
@@ -3655,7 +3875,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Professional experience",
-          "value": "Graduate Student, School of Public Administration, Huazhong University of Science and Technology\n\nHow do you feel about Caritai\n\nI met a group of sincere friends in Caritai, which taught me the value of genuineness and the power of concentration. I, as a beneficiary from Caritai, will continue to pass on the philosophy of charity and treat people around me with care and respect."
+          "value": "Graduate Student, School of Public Administration, Huazhong University of Science and Technology"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "I met a group of sincere friends in Caritai, which taught me the value of genuineness and the power of concentration. I, as a beneficiary from Caritai, will continue to pass on the philosophy of charity and treat people around me with care and respect."
         }
       ]
     },
@@ -3678,7 +3902,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Professional experience",
-          "value": "China Merchants Bank Shenzhen\n\nHow do you feel about Caritai\n\nCaritai helps me plan my future career by broadening my horizons and encouraging me to try something different. I feel glad to have been a part of Caritai, which made me more outgoing and shaped my way to interact with others. I had a wonderful and meaningful university experience through Caritai."
+          "value": "China Merchants Bank Shenzhen"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "Caritai helps me plan my future career by broadening my horizons and encouraging me to try something different. I feel glad to have been a part of Caritai, which made me more outgoing and shaped my way to interact with others. I had a wonderful and meaningful university experience through Caritai."
         }
       ]
     },
@@ -3701,7 +3929,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Professional experience",
-          "value": "Beijing Snowball Information Technology Co., Ltd.\n\nHow do you feel about Caritai\n\nI was fortunate to be among the very first cohort of Caritai students. In Caritai, I realized the importance of planning in advance, so I started to explore my interests and learned to pass what I did not enjoy. Gradually I was able to find what I can do well in and have passion about."
+          "value": "Beijing Snowball Information Technology Co., Ltd."
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "I was fortunate to be among the very first cohort of Caritai students. In Caritai, I realized the importance of planning in advance, so I started to explore my interests and learned to pass what I did not enjoy. Gradually I was able to find what I can do well in and have passion about."
         }
       ]
     },
@@ -3724,7 +3956,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Professional experience",
-          "value": "COSCO Marine Special Transportation Co., Ltd\n\nHow do you feel about Caritai\n\nCaritai is a warm and family-like community. It does not only provide a platform for us to exchange our knowledge and insights, but also help us find the right path in study and work."
+          "value": "COSCO Marine Special Transportation Co., Ltd"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "Caritai is a warm and family-like community. It does not only provide a platform for us to exchange our knowledge and insights, but also help us find the right path in study and work."
         }
       ]
     },
@@ -3747,7 +3983,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Professional experience",
-          "value": "Instructor, TAL Education Group\n\nHow do you feel about Caritai\n\nI was not very confident about myself when I entered university because I didn't have a high academic standing. After I joined the Caritai family, the senior students helped me heighten my sense self-esteem and life direction. These precious experiences have made a great difference to me and enabled me to overcome challenges in my later career. They also inspired me to carry the spirit forward and bring light to others."
+          "value": "Instructor, TAL Education Group"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "I was not very confident about myself when I entered university because I didn't have a high academic standing. After I joined the Caritai family, the senior students helped me heighten my sense self-esteem and life direction. These precious experiences have made a great difference to me and enabled me to overcome challenges in my later career. They also inspired me to carry the spirit forward and bring light to others."
         }
       ]
     },
@@ -3770,7 +4010,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Professional experience",
-          "value": "Tencent\n\nHow do you feel about Caritai\n\nEveryone in Caritai is willing to share their personal experiences without any reservation and give me strength when I feel down. It is such genuineness and openness that provide me with a sense of belonging, so I can expand my scope of knowledge while concentrating on every task I do."
+          "value": "Tencent"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "Everyone in Caritai is willing to share their personal experiences without any reservation and give me strength when I feel down. It is such genuineness and openness that provide me with a sense of belonging, so I can expand my scope of knowledge while concentrating on every task I do."
         }
       ]
     },
@@ -3793,7 +4037,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Professional experience",
-          "value": "Account Manager, Huawei\n\nHow do you feel about Caritai\n\nIn Caritai, we gathered together with like-minded friends to share personal growth and spiritual pursuit, and received support and care from senior students. My experiences with Caritai have not only facilitated my job hunting but also made me more stable and down-to-earth."
+          "value": "Account Manager, Huawei"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "In Caritai, we gathered together with like-minded friends to share personal growth and spiritual pursuit, and received support and care from senior students. My experiences with Caritai have not only facilitated my job hunting but also made me more stable and down-to-earth."
         }
       ]
     },
@@ -3816,7 +4064,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Professional experience",
-          "value": "Graduate Student, Beijing Foreign Studies University\n\nHow do you feel about Caritai\n\nCaritai is a warm family for me, where members grow together and develop themselves through real-world practices. I feel comfortable sharing anything with my family members here, and I can always find suggestions and support when I am in need. In Caritai, everyone is not only a beneficiary but also a light bringer for others, who constantly accompany their fellow members who feel confused or lonely, cheer them up, and help them out. I find this especially precious."
+          "value": "Graduate Student, Beijing Foreign Studies University"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "Caritai is a warm family for me, where members grow together and develop themselves through real-world practices. I feel comfortable sharing anything with my family members here, and I can always find suggestions and support when I am in need. In Caritai, everyone is not only a beneficiary but also a light bringer for others, who constantly accompany their fellow members who feel confused or lonely, cheer them up, and help them out. I find this especially precious."
         }
       ]
     },
@@ -3839,7 +4091,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Professional experience",
-          "value": "Management Trainee, GSX Techedu Inc.\n\nHow do you feel about Caritai\n\nI am glad to grow up with a group of friends under the guidance of mentors in Caritai, and have abundant opportunities for learning and practicing new skills. The possibilities offered in this community helped me overcome my low self-esteem and become a confident, well-informed and all-round person."
+          "value": "Management Trainee, GSX Techedu Inc."
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "I am glad to grow up with a group of friends under the guidance of mentors in Caritai, and have abundant opportunities for learning and practicing new skills. The possibilities offered in this community helped me overcome my low self-esteem and become a confident, well-informed and all-round person."
         }
       ]
     },
@@ -3862,7 +4118,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Professional experience",
-          "value": "Evergrande Group\n\nHow do you feel about Caritai\n\nEvery time I recall my Caritai experience, I think of the moments of our get-togethers. I always associate Caritai with a group of lovely people. Every member conveys goodwill and kindness to others, which makes me feel a strong sense of belonging here."
+          "value": "Evergrande Group"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "Every time I recall my Caritai experience, I think of the moments of our get-togethers. I always associate Caritai with a group of lovely people. Every member conveys goodwill and kindness to others, which makes me feel a strong sense of belonging here."
         }
       ]
     },
@@ -3885,7 +4145,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Professional experience",
-          "value": "Product manager, Guangzhou Banggood NetWork Technology Co.,LTD\n\nHow do you feel about Caritai\n\nCaritai is a warm place where I collaborated and grew together with a group of like-minded friends. In the \"Caritai Talk\" online lectures, we met thought-leaders from a variety of professional and academic fields and learned from their unique experiences and perspectives. These online lectures provided insights and examples for me to model my life and career plans after."
+          "value": "Product manager, Guangzhou Banggood NetWork Technology Co.,LTD"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "Caritai is a warm place where I collaborated and grew together with a group of like-minded friends. In the \"Caritai Talk\" online lectures, we met thought-leaders from a variety of professional and academic fields and learned from their unique experiences and perspectives. These online lectures provided insights and examples for me to model my life and career plans after."
         }
       ]
     },
@@ -3908,7 +4172,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Professional experience",
-          "value": "Graduate Student, Nankai University\n\nHow do you feel about Caritai\n\nI was deeply affected by the advice and positive values from senior students in Caritai. For example, my mentor in Caritai often encouraged me to dream big. Even though sometimes I still held back because of my low self-esteem and I felt indecisive, I never cease to motivate myself to \"think big\" and \"dream big\"."
+          "value": "Graduate Student, Nankai University"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "I was deeply affected by the advice and positive values from senior students in Caritai. For example, my mentor in Caritai often encouraged me to dream big. Even though sometimes I still held back because of my low self-esteem and I felt indecisive, I never cease to motivate myself to \"think big\" and \"dream big\"."
         }
       ]
     },
@@ -3931,7 +4199,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Professional experience",
-          "value": "Ernst & Young\n\nHow do you feel about Caritai\n\nDuring my three years in Caritai, I felt a sincere altruistic compassion from my mentors, and I especially appreciated their focus on humanism. The mentoring has not only helped me raise self-awareness but also inspired me to bravely pursue my dreams. Activities held by Caritai present opened a window to a broad world in front of me that is full of wonders, making me gradually grow more confident in my capabilities and have a clearer sense of my future direction."
+          "value": "Ernst & Young"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "During my three years in Caritai, I felt a sincere altruistic compassion from my mentors, and I especially appreciated their focus on humanism. The mentoring has not only helped me raise self-awareness but also inspired me to bravely pursue my dreams. Activities held by Caritai present opened a window to a broad world in front of me that is full of wonders, making me gradually grow more confident in my capabilities and have a clearer sense of my future direction."
         }
       ]
     },
@@ -3954,7 +4226,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Professional experience",
-          "value": "Huazhong University of Science and Technology\n\nHow do you feel about Caritai\n\nCaritai is an organization composed of people who share their experience and knowledge selflessly and passionately. Contrary to its name's literal meaning - tiny love, Caritai demonstrates great love. After changing my major in my sophomore year, I felt fortunate to join Caritai and got to know many new friends from the School of Foreign Languages at HUST. Whenever I was stuck in a dilemma, I would think of my friends in Caritai who could solve my problems and offer me unique insights. They are not only my companions and friends, but also my tutors and role models who will guide my path. I will endeavor to pass on this great love to more people, like what they have done for me."
+          "value": "Huazhong University of Science and Technology"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "Caritai is an organization composed of people who share their experience and knowledge selflessly and passionately. Contrary to its name's literal meaning - tiny love, Caritai demonstrates great love. After changing my major in my sophomore year, I felt fortunate to join Caritai and got to know many new friends from the School of Foreign Languages at HUST. Whenever I was stuck in a dilemma, I would think of my friends in Caritai who could solve my problems and offer me unique insights. They are not only my companions and friends, but also my tutors and role models who will guide my path. I will endeavor to pass on this great love to more people, like what they have done for me."
         }
       ]
     },
@@ -3973,11 +4249,19 @@ window.TEAM_DATA = {
         },
         {
           "label": "Major",
-          "value": "German Literature\n\nHow do you feel about Caritai\n\nCaritai is the perfect type of organization that I had envisioned being a part of before I attended university. Its positive impact on the development of my mindset and shaping of my values is unparalleled and irreplaceable. I hope to make the Caritai family prosper further."
+          "value": "German Literature"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "Caritai is the perfect type of organization that I had envisioned being a part of before I attended university. Its positive impact on the development of my mindset and shaping of my values is unparalleled and irreplaceable. I hope to make the Caritai family prosper further."
         },
         {
           "label": "One thing you feel proudest of or most special about yourself",
-          "value": "I spent two weeks travelling around Western European countries alone by train and on foot.\n\nHow would you like to see yourself when you graduate\n\nI hope I could become a person who upholds faith, hope, determination, and kindness towards the future without any regrets about my university life."
+          "value": "I spent two weeks travelling around Western European countries alone by train and on foot."
+        },
+        {
+          "label": "How would you like to see yourself when you graduate",
+          "value": "I hope I could become a person who upholds faith, hope, determination, and kindness towards the future without any regrets about my university life."
         }
       ]
     },
@@ -3996,11 +4280,19 @@ window.TEAM_DATA = {
         },
         {
           "label": "Major",
-          "value": "English and International Business (Dual Degree)\n\nHow do you feel about Caritai\n\nCaritai is such a homelike place."
+          "value": "English and International Business (Dual Degree)"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "Caritai is such a homelike place."
         },
         {
           "label": "One thing you feel proudest of or most special about yourself",
-          "value": "I receive guidance and support from my mentors in the management group.\n\nHow would you like to see yourself when you graduate\n\nI would like to be more accepting of myself."
+          "value": "I receive guidance and support from my mentors in the management group."
+        },
+        {
+          "label": "How would you like to see yourself when you graduate",
+          "value": "I would like to be more accepting of myself."
         }
       ]
     },
@@ -4022,8 +4314,16 @@ window.TEAM_DATA = {
           "value": "2017"
         },
         {
+          "label": "How do you feel about Caritai",
+          "value": "Every Caritai member is so genuine towards each other. It’s a big family where you can talk about everything with others."
+        },
+        {
           "label": "One thing you feel proudest of or most special about yourself",
-          "value": "I encountered a storm in the Tengger Desert.\n\nHow would you like to see yourself when you graduate\n\nSomeone who has a fulfilled heart, a free spirit, and a reliable strength, who is lovable and capable of serving others."
+          "value": "I encountered a storm in the Tengger Desert."
+        },
+        {
+          "label": "How would you like to see yourself when you graduate",
+          "value": "Someone who has a fulfilled heart, a free spirit, and a reliable strength, who is lovable and capable of serving others."
         }
       ]
     },
@@ -4046,7 +4346,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Professional experience",
-          "value": "Instructor, SCHOLAR EDUCATION\n\nHow do you feel about Caritai\n\nCaritai helped me deepen my self-awareness, broaden my horizons, and find the right direction in life. Although I have left the campus and become an alumnus of Caritai, I will devote myself to passing on the hope and love this family has given me."
+          "value": "Instructor, SCHOLAR EDUCATION"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "Caritai helped me deepen my self-awareness, broaden my horizons, and find the right direction in life. Although I have left the campus and become an alumnus of Caritai, I will devote myself to passing on the hope and love this family has given me."
         }
       ]
     },
@@ -4068,8 +4372,16 @@ window.TEAM_DATA = {
           "value": "2017"
         },
         {
+          "label": "How do you feel about Caritai",
+          "value": "Caritai is a home-like place that nourishes members’ growth and encourages each individual to pursue their dreams. Caritai's founders and mentors teach us to give back to society by setting great examples."
+        },
+        {
           "label": "One thing you feel proudest of or most special about yourself",
-          "value": "I participated in the Garbage Classification Research Project, which was one of the Caritai civic projects.\n\nHow would you like to see yourself when you graduate\n\nI hope to be a well-organized person who is able to undertake more social responsibilities, and of course, get admitted to my dream graduate school."
+          "value": "I participated in the Garbage Classification Research Project, which was one of the Caritai civic projects."
+        },
+        {
+          "label": "How would you like to see yourself when you graduate",
+          "value": "I hope to be a well-organized person who is able to undertake more social responsibilities, and of course, get admitted to my dream graduate school."
         }
       ]
     },
@@ -4088,11 +4400,19 @@ window.TEAM_DATA = {
         },
         {
           "label": "Major",
-          "value": "Advertisement\n\nHow do you feel about Caritai\n\nCaritai is a warm and supportive place where members gather together to share their experiences and feelings instead of simply accomplishing task assignments. Every lecture and discussion at Caritai have helped me see a broader world and become a better self. I really appreciate these opportunities."
+          "value": "Advertisement"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "Caritai is a warm and supportive place where members gather together to share their experiences and feelings instead of simply accomplishing task assignments. Every lecture and discussion at Caritai have helped me see a broader world and become a better self. I really appreciate these opportunities."
         },
         {
           "label": "One thing you feel proudest of or most special about yourself",
-          "value": "After making up my mind to study abroad, I stayed home and overcame procrastination in order to prepare for IELTS. As a result, I got 7.5 in one go, which meets the requirement of my target school.\n\nHow would you like to see yourself when you graduate\n\nI hope I would be admitted to my dream graduate school, as well as have a clearer picture of my future career. Meanwhile, I could spend more time on reading and internship, which makes me a well-rounded person. Meanwhile, I hope to have spent my senior year on abundant reading and practicum to make myself more thoughtful and experienced."
+          "value": "After making up my mind to study abroad, I stayed home and overcame procrastination in order to prepare for IELTS. As a result, I got 7.5 in one go, which meets the requirement of my target school."
+        },
+        {
+          "label": "How would you like to see yourself when you graduate",
+          "value": "I hope I would be admitted to my dream graduate school, as well as have a clearer picture of my future career. Meanwhile, I could spend more time on reading and internship, which makes me a well-rounded person. Meanwhile, I hope to have spent my senior year on abundant reading and practicum to make myself more thoughtful and experienced."
         }
       ]
     },
@@ -4111,11 +4431,19 @@ window.TEAM_DATA = {
         },
         {
           "label": "Major",
-          "value": "English and International Business (Dual Degree)\n\nHow do you feel about Caritai\n\nWe grow together as a family."
+          "value": "English and International Business (Dual Degree)"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "We grow together as a family."
         },
         {
           "label": "One thing you feel proudest of or most special about yourself",
-          "value": "I spoke to almost a thousand local representatives in towns and villages during my internship in the Guangshui municipal government.\n\nHow would you like to see yourself when you graduate\n\nI hope to make good use of the knowledge and experiences I have earned during four-year university life."
+          "value": "I spoke to almost a thousand local representatives in towns and villages during my internship in the Guangshui municipal government."
+        },
+        {
+          "label": "How would you like to see yourself when you graduate",
+          "value": "I hope to make good use of the knowledge and experiences I have earned during four-year university life."
         }
       ]
     },
@@ -4134,11 +4462,19 @@ window.TEAM_DATA = {
         },
         {
           "label": "Major",
-          "value": "German Literature\n\nHow do you feel about Caritai\n\nIt has been two years since I joined Caritai. At the beginning, I was shy and self-conscious, but with the support and encouragement of senior members, I gradually came out of my shell and felt like being in a big, warm family. I sincerely hope Caritai will be robust and thriving in the future."
+          "value": "German Literature"
+        },
+        {
+          "label": "How do you feel about Caritai",
+          "value": "It has been two years since I joined Caritai. At the beginning, I was shy and self-conscious, but with the support and encouragement of senior members, I gradually came out of my shell and felt like being in a big, warm family. I sincerely hope Caritai will be robust and thriving in the future."
         },
         {
           "label": "One thing you feel proudest of or most special about yourself",
-          "value": "My right eye was hurt by a stone when I was a child, and I experienced a few days of blindness. Since the accident my friends said I have become much more mature than before. That injury was a wake-up call that transformed me from a mischievous kid to a well-behaved young man.\n\nHow would you like to see yourself when you graduate\n\nSomeone who is optimistic and conscientious."
+          "value": "My right eye was hurt by a stone when I was a child, and I experienced a few days of blindness. Since the accident my friends said I have become much more mature than before. That injury was a wake-up call that transformed me from a mischievous kid to a well-behaved young man."
+        },
+        {
+          "label": "How would you like to see yourself when you graduate",
+          "value": "Someone who is optimistic and conscientious."
         }
       ]
     },
@@ -4160,8 +4496,16 @@ window.TEAM_DATA = {
           "value": "2019"
         },
         {
+          "label": "How do you feel about Caritai",
+          "value": "Caritai is a home-like place, where people feel like siblings to each other regardless of differences in age, major, experience, and character."
+        },
+        {
           "label": "One thing you feel proudest of or most special about yourself",
-          "value": "I passed my driver's license test in one go -- the very first license in my adulthood.\n\nHow would you like to see yourself when you graduate\n\nI want to be well-versed in my field of study and also knowledgeable of various areas, keep a humble and genuine heart, stay calm and positive under unfavorable circumstances, and never give away my authentic self."
+          "value": "I passed my driver's license test in one go -- the very first license in my adulthood."
+        },
+        {
+          "label": "How would you like to see yourself when you graduate",
+          "value": "I want to be well-versed in my field of study and also knowledgeable of various areas, keep a humble and genuine heart, stay calm and positive under unfavorable circumstances, and never give away my authentic self."
         }
       ]
     },
@@ -4183,8 +4527,16 @@ window.TEAM_DATA = {
           "value": "2019"
         },
         {
+          "label": "How do you feel about Caritai",
+          "value": "It is a warm family where people help and care about each other. Additionally, every member is self-motivated, ambitious and grateful, which makes Caritai a dynamic organization. Furthermore, through the opportunities Caritai strives to create, students can develop a knowledge of various fields and become well-rounded individuals."
+        },
+        {
           "label": "One thing you feel proudest of or most special about yourself",
-          "value": "I used to be nervous about public speaking. For this reason, I let go of the opportunity to deliver a speech on some meaningful occasions. After joining Caritai, I participated in planning Caritai lectures and contacting speakers, which helped me gradually overcome the obstacle and make great progress in public speaking. This makes me proud.\n\nHow would you like to see yourself when you graduate\n\nI hope I will be adaptable, competent, and confident. Moreover, I can keep pursuing my dream and give back to the society."
+          "value": "I used to be nervous about public speaking. For this reason, I let go of the opportunity to deliver a speech on some meaningful occasions. After joining Caritai, I participated in planning Caritai lectures and contacting speakers, which helped me gradually overcome the obstacle and make great progress in public speaking. This makes me proud."
+        },
+        {
+          "label": "How would you like to see yourself when you graduate",
+          "value": "I hope I will be adaptable, competent, and confident. Moreover, I can keep pursuing my dream and give back to the society."
         }
       ]
     },
@@ -4211,7 +4563,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "One thing you feel proudest of or most special about yourself",
-          "value": "I find that being part of Caritai is already a special experience for me, which enables me to meet a group of wonderful people.\n\nHow would you like to see yourself when you graduate\n\nI would like to be an all-around person with confidence and grace."
+          "value": "I find that being part of Caritai is already a special experience for me, which enables me to meet a group of wonderful people."
+        },
+        {
+          "label": "How would you like to see yourself when you graduate",
+          "value": "I would like to be an all-around person with confidence and grace."
         }
       ]
     },
