@@ -110,7 +110,7 @@ window.TEAM_DATA = {
     {
       "group": "微爱帮帮团",
       "name": "陈骁 (Lucas Xiao Chen)",
-      "avatar": "assets/members/team_pzk0f.png",
+      "avatar": "assets/members/team_pzk0f.jpg",
       "fields": [
         {
           "label": "所在城市 (City of residence)",
@@ -2662,7 +2662,7 @@ window.TEAM_DATA = {
     {
       "group": "Caritai Mentors",
       "name": "陈骁 (Lucas Xiao Chen)",
-      "avatar": "assets/members/en_pzk0f.png",
+      "avatar": "assets/members/en_pzk0f.jpg",
       "fields": [
         {
           "label": "所在城市 (City of residence)",
