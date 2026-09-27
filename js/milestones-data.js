@@ -23,7 +23,7 @@ window.MILESTONES_DATA = {
     {
       "year": "2016",
       "items": [
-        "2016年11月，启动微爱讲座系列。",
+        "2016年11月，启动微爱漫谈系列。",
         "2016年11月，建立微爱学生管理团队。"
       ]
     },
@@ -76,13 +76,13 @@ window.MILESTONES_DATA = {
     {
       "year": "2015",
       "items": [
-        "September 2015 — Received the first donation from business (DaringQ Foundation)"
+        "September 2015 — Received the first corporate donation (DaringQ Foundation)"
       ]
     },
     {
       "year": "2016",
       "items": [
-        "November 2016 — Launched \"Caritai Talk\", which designs 10 lectures per year by featured speakers from different professions.",
+        "November 2016 — Launched the \"Caritai Talk\" series, featuring speakers from different professions.",
         "November 2016 — Built a student-run team to assist Caritai's operation."
       ]
     },
@@ -106,13 +106,13 @@ window.MILESTONES_DATA = {
         "March 2019 — Launched \"Caritai Go\", a collaborative program for students to research and improve critical social issues.",
         "May 2019 — Finalized and interpreted Caritai's code of honor.",
         "September 2019 — Designed a scientific mechanism for selecting Caritai's new applicants.",
-        "November 2019 — Established Caritai's Advisory Board ."
+        "November 2019 — Established Caritai's Advisory Board."
       ]
     },
     {
       "year": "2020",
       "items": [
-        "January 2020 — Created the first thank-you video with all Caritai members from 16 cities all over the world",
+        "January 2020 — Created the first thank-you video with all Caritai members from 16 cities all over the world.",
         "March 2020 — Completed a leadership potential assessment for all Caritai students.",
         "August 2020 — Officially transitioned Caritai's operation to its student team."
       ]
