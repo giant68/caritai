@@ -23,7 +23,7 @@ window.MILESTONES_DATA = {
     {
       "year": "2016",
       "items": [
-        "2016年11月，启动微爱漫谈系列。",
+        "2016年12月，启动微爱漫谈系列。",
         "2016年11月，建立微爱学生管理团队。"
       ]
     },
@@ -82,7 +82,7 @@ window.MILESTONES_DATA = {
     {
       "year": "2016",
       "items": [
-        "November 2016 — Launched the \"Caritai Talk\" series, featuring speakers from different professions.",
+        "December 2016 — Launched the \"Caritai Talk\" series, featuring speakers from different professions.",
         "November 2016 — Built a student-run team to assist Caritai's operation."
       ]
     },
