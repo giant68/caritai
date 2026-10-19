@@ -800,6 +800,61 @@ window.TEAM_DATA = {
     },
     {
       "group": "学生团队",
+      "name": "王婷婷",
+      "avatar": "assets/members/team_i7t04.png",
+      "fields": [
+        {
+          "label": "加入微爱的年份",
+          "value": "2023"
+        },
+        {
+          "label": "家乡",
+          "value": "新疆和田"
+        },
+        {
+          "label": "专业和班级",
+          "value": "英语2301班"
+        },
+        {
+          "label": "爱好",
+          "value": "羽毛球，跆拳道，摄影，绘画"
+        },
+        {
+          "label": "有趣的事实",
+          "value": "喜欢尝试各种不同的新鲜事物，常被朋友说“很有活人味”，能量满满。"
+        },
+        {
+          "label": "为什么加入微爱",
+          "value": "一是想要接触到更多资源，打破信息壁垒；二是通过认识的学姐以及宣传推文，感受到微爱是一个充满爱的组织，被深深吸引。"
+        },
+        {
+          "label": "我比较擅长的事或者技能",
+          "value": "擅于沟通交流，结交朋友"
+        },
+        {
+          "label": "微爱用得到我的地方",
+          "value": "对生活和周围人充满热情，提供正能量和正向情绪价值。 有一些学生工作经验，爱玩会玩，已经加入微爱活动组，希望能为大家策划更多活动，为微爱注入更多活力！"
+        },
+        {
+          "label": "我希望有练习和提高的地方",
+          "value": "希望自己能变成一个J人，做事更有规划，也希望自己能对个人未来规划更清晰。平时读书比较少，希望能养成阅读的好习惯。"
+        },
+        {
+          "label": "加入的其他学生组织",
+          "value": "华中科技大学学生社团指导中心对外事务部，跆拳道协会，外国语学院心语健康发展指导中心，外国语学院羽毛球队,语翼青年志愿服务团"
+        },
+        {
+          "label": "本学年目标",
+          "value": "继续尝试自己没做过的事，发现自己的兴趣点。 学习成绩和专业能力有所提升。 找到自己的方向和目标，并为之努力。"
+        },
+        {
+          "label": "梦想",
+          "value": "做一个内核稳定，强大且温柔的人。"
+        }
+      ]
+    },
+    {
+      "group": "学生团队",
       "name": "石小玉",
       "avatar": "assets/members/team_pzk3l.png",
       "fields": [
@@ -913,61 +968,6 @@ window.TEAM_DATA = {
         {
           "label": "最喜欢的一句话",
           "value": "我们终此一生，就是要努力摆脱他人的期待，找到真正的自己"
-        }
-      ]
-    },
-    {
-      "group": "学生团队",
-      "name": "王婷婷",
-      "avatar": "assets/members/team_i7t04.png",
-      "fields": [
-        {
-          "label": "加入微爱的年份",
-          "value": "2023"
-        },
-        {
-          "label": "家乡",
-          "value": "新疆和田"
-        },
-        {
-          "label": "专业和班级",
-          "value": "英语2301班"
-        },
-        {
-          "label": "爱好",
-          "value": "羽毛球，跆拳道，摄影，绘画"
-        },
-        {
-          "label": "有趣的事实",
-          "value": "喜欢尝试各种不同的新鲜事物，常被朋友说“很有活人味”，能量满满。"
-        },
-        {
-          "label": "为什么加入微爱",
-          "value": "一是想要接触到更多资源，打破信息壁垒；二是通过认识的学姐以及宣传推文，感受到微爱是一个充满爱的组织，被深深吸引。"
-        },
-        {
-          "label": "我比较擅长的事或者技能",
-          "value": "擅于沟通交流，结交朋友"
-        },
-        {
-          "label": "微爱用得到我的地方",
-          "value": "对生活和周围人充满热情，提供正能量和正向情绪价值。 有一些学生工作经验，爱玩会玩，已经加入微爱活动组，希望能为大家策划更多活动，为微爱注入更多活力！"
-        },
-        {
-          "label": "我希望有练习和提高的地方",
-          "value": "希望自己能变成一个J人，做事更有规划，也希望自己能对个人未来规划更清晰。平时读书比较少，希望能养成阅读的好习惯。"
-        },
-        {
-          "label": "加入的其他学生组织",
-          "value": "华中科技大学学生社团指导中心对外事务部，跆拳道协会，外国语学院心语健康发展指导中心，外国语学院羽毛球队,语翼青年志愿服务团"
-        },
-        {
-          "label": "本学年目标",
-          "value": "继续尝试自己没做过的事，发现自己的兴趣点。 学习成绩和专业能力有所提升。 找到自己的方向和目标，并为之努力。"
-        },
-        {
-          "label": "梦想",
-          "value": "做一个内核稳定，强大且温柔的人。"
         }
       ]
     },
@@ -1404,6 +1404,183 @@ window.TEAM_DATA = {
         {
           "label": "最喜欢的一句话",
           "value": "读万卷书，行万里路"
+        }
+      ]
+    },
+    {
+      "group": "学生团队",
+      "name": "杜天泽",
+      "avatar": "assets/members/team_dutianze.jpg",
+      "fields": [
+        {
+          "label": "加入微爱的年份",
+          "value": "2026"
+        },
+        {
+          "label": "家乡",
+          "value": "河南开封"
+        },
+        {
+          "label": "专业和班级",
+          "value": "翻译2601班"
+        },
+        {
+          "label": "爱好",
+          "value": "读书，看电影，散步"
+        },
+        {
+          "label": "有趣的事实",
+          "value": "日常犯蠢"
+        },
+        {
+          "label": "为什么加入微爱",
+          "value": "标语吸引，想成为更有能力，让爱心落地的人"
+        },
+        {
+          "label": "我比较擅长的事或者技能",
+          "value": "交际，倾听"
+        },
+        {
+          "label": "微爱用得到我的地方",
+          "value": "活动宣传"
+        },
+        {
+          "label": "我希望有练习和提高的地方",
+          "value": "电脑办公技能"
+        },
+        {
+          "label": "加入的其他学生组织",
+          "value": "暂无"
+        },
+        {
+          "label": "本学年目标",
+          "value": "找到适合自己的大学生活"
+        },
+        {
+          "label": "梦想",
+          "value": "精神富足"
+        },
+        {
+          "label": "最喜欢的一句话",
+          "value": "胸怀乾坤大，犹怜草木青"
+        }
+      ]
+    },
+    {
+      "group": "学生团队",
+      "name": "李钰婧",
+      "avatar": "assets/members/team_liyujing.jpg",
+      "fields": [
+        {
+          "label": "加入微爱的年份",
+          "value": "2026"
+        },
+        {
+          "label": "家乡",
+          "value": "湖北宜昌"
+        },
+        {
+          "label": "专业和班级",
+          "value": "英商2601班"
+        },
+        {
+          "label": "爱好",
+          "value": "看书，打羽毛球"
+        },
+        {
+          "label": "有趣的事实",
+          "value": "似乎没有（思考）"
+        },
+        {
+          "label": "为什么加入微爱",
+          "value": "提升自我，回馈社会"
+        },
+        {
+          "label": "我比较擅长的事或者技能",
+          "value": "擅长倾听"
+        },
+        {
+          "label": "微爱用得到我的地方",
+          "value": "服从组织安排"
+        },
+        {
+          "label": "我希望有练习和提高的地方",
+          "value": "组织活动的能力"
+        },
+        {
+          "label": "加入的其他学生组织",
+          "value": "社会实践部"
+        },
+        {
+          "label": "本学年目标",
+          "value": "夯实学业基础；培养新的爱好"
+        },
+        {
+          "label": "梦想",
+          "value": "成为一名光荣的人民教师"
+        },
+        {
+          "label": "最喜欢的一句话",
+          "value": "未来不足惧，过往不需泣。"
+        }
+      ]
+    },
+    {
+      "group": "学生团队",
+      "name": "原敬尧",
+      "avatar": "assets/members/team_yuanjingyao.jpg",
+      "fields": [
+        {
+          "label": "加入微爱的年份",
+          "value": "2026"
+        },
+        {
+          "label": "家乡",
+          "value": "山西太原"
+        },
+        {
+          "label": "专业和班级",
+          "value": "德语2601班"
+        },
+        {
+          "label": "爱好",
+          "value": "阅读，听音乐，品鉴美食、电影、动漫，球类运动，喜欢聊天"
+        },
+        {
+          "label": "有趣的事实",
+          "value": "对大部分事物都抱有好奇，反而不知道自己到底喜欢做什么…还有选择困难症"
+        },
+        {
+          "label": "为什么加入微爱",
+          "value": "感觉是一个可以自在地寻求帮助和帮助别人的地方"
+        },
+        {
+          "label": "我比较擅长的事或者技能",
+          "value": "比较平均…可能处理文字信息的能力和总结能力还算可以"
+        },
+        {
+          "label": "微爱用得到我的地方",
+          "value": "策划，沟通…我是一块砖，哪里有用哪里搬"
+        },
+        {
+          "label": "我希望有练习和提高的地方",
+          "value": "自我控制能力和一些实用技能，还有协调能力"
+        },
+        {
+          "label": "加入的其他学生组织",
+          "value": "组织部，辩论队，排球队和3C社团"
+        },
+        {
+          "label": "本学年目标",
+          "value": "找到新生活的节奏，勇于挑战自己！"
+        },
+        {
+          "label": "梦想",
+          "value": "找到自己喜欢的事，可以独当一面，有很多好朋友"
+        },
+        {
+          "label": "最喜欢的一句话",
+          "value": "All those moments will be lost in time."
         }
       ]
     },
@@ -3387,116 +3564,6 @@ window.TEAM_DATA = {
     },
     {
       "group": "Caritai Students",
-      "name": "Shu Yuan",
-      "avatar": "assets/members/en_pzk3r.png",
-      "fields": [
-        {
-          "label": "Year of joining Caritai",
-          "value": "2023"
-        },
-        {
-          "label": "Hometown",
-          "value": "Luohe, Henan"
-        },
-        {
-          "label": "Major and Class",
-          "value": "Computer Science, Class 2305"
-        },
-        {
-          "label": "Hobbies",
-          "value": "Swimming, Table Tennis"
-        },
-        {
-          "label": "Interesting fact",
-          "value": "Prone to gaining weight"
-        },
-        {
-          "label": "Reason for joining Caritai",
-          "value": "To gain a sense of belonging and learn from senior students' experiences"
-        },
-        {
-          "label": "Skills or strengths",
-          "value": "Affability, independent thinking, having my own opinions"
-        },
-        {
-          "label": "Where Caritai can utilize me",
-          "value": "I can assist with any tasks that Caritai needs help with"
-        },
-        {
-          "label": "Areas I hope to practice and improve",
-          "value": "Organizational and management skills, emotional intelligence\n\nOther student organizations I have joined: Student Science and Technology Association"
-        },
-        {
-          "label": "Goals for this academic year",
-          "value": "Learn front-end development; Improve English listening and speaking skills"
-        },
-        {
-          "label": "Dream",
-          "value": "Financial freedom and making contributions to society."
-        },
-        {
-          "label": "Favorite quote",
-          "value": "\"Our lifelong goal is to strive to break free from the expectations of others and find our true selves.\""
-        }
-      ]
-    },
-    {
-      "group": "Caritai Students",
-      "name": "Xiaoyu Shi",
-      "avatar": "assets/members/en_pzk3t.png",
-      "fields": [
-        {
-          "label": "Year of joining Caritai",
-          "value": "2023"
-        },
-        {
-          "label": "Hometown",
-          "value": "Suizhou, Hubei"
-        },
-        {
-          "label": "Major and Class",
-          "value": "French, Class 2301"
-        },
-        {
-          "label": "Hobbies",
-          "value": "Dance, Guzheng, Musical Theatre, Card and Board Games, Murder Mystery Scripts"
-        },
-        {
-          "label": "Interesting fact",
-          "value": "Can't sing in tune"
-        },
-        {
-          "label": "Reason for joining Caritai",
-          "value": "To find a place for spiritual relaxation and explore intellectual exchanges."
-        },
-        {
-          "label": "Skills or strengths",
-          "value": "Dance, communication and negotiation with others."
-        },
-        {
-          "label": "Where Caritai can utilize me",
-          "value": "Creating promotional materials, organizing events."
-        },
-        {
-          "label": "Areas I hope to practice and improve",
-          "value": "Language communication and expression, affinity and communication with others.\n\nOther student organizations I have joined: Student Union Contact Service Department, Model United Nations, Fengmang Street Dance Club."
-        },
-        {
-          "label": "Goals for this academic year",
-          "value": "Achieve ideal academic results in my major and have a preliminary idea of future development direction."
-        },
-        {
-          "label": "Dream",
-          "value": "Every person can develop more freely."
-        },
-        {
-          "label": "Favorite quote",
-          "value": "\"I have been fighting with myself for a long time, and I'd rather be myself.\""
-        }
-      ]
-    },
-    {
-      "group": "Caritai Students",
       "name": "Tingting Wang",
       "avatar": "assets/members/en_aemuc.png",
       "fields": [
@@ -3547,6 +3614,124 @@ window.TEAM_DATA = {
         {
           "label": "Dream",
           "value": "To be a person with a stable core, strength, and tenderness."
+        }
+      ]
+    },
+    {
+      "group": "Caritai Students",
+      "name": "Xiaoyu Shi",
+      "avatar": "assets/members/en_pzk3t.png",
+      "fields": [
+        {
+          "label": "Year of joining Caritai",
+          "value": "2023"
+        },
+        {
+          "label": "Hometown",
+          "value": "Suizhou, Hubei"
+        },
+        {
+          "label": "Major and Class",
+          "value": "French, Class 2301"
+        },
+        {
+          "label": "Hobbies",
+          "value": "Dance, Guzheng, Musical Theatre, Card and Board Games, Murder Mystery Scripts"
+        },
+        {
+          "label": "Interesting fact",
+          "value": "Can't sing in tune"
+        },
+        {
+          "label": "Reason for joining Caritai",
+          "value": "To find a place for spiritual relaxation and explore intellectual exchanges."
+        },
+        {
+          "label": "Skills or strengths",
+          "value": "Dance, communication and negotiation with others."
+        },
+        {
+          "label": "Where Caritai can utilize me",
+          "value": "Creating promotional materials, organizing events."
+        },
+        {
+          "label": "Areas I hope to practice and improve",
+          "value": "Language communication and expression, affinity and communication with others."
+        },
+        {
+          "label": "Other student organizations joined",
+          "value": "Student Union Contact Service Department, Model United Nations, Fengmang Street Dance Club."
+        },
+        {
+          "label": "Goals for this academic year",
+          "value": "Achieve ideal academic results in my major and have a preliminary idea of future development direction."
+        },
+        {
+          "label": "Dream",
+          "value": "Every person can develop more freely."
+        },
+        {
+          "label": "Favorite quote",
+          "value": "\"I have been fighting with myself for a long time, and I'd rather be myself.\""
+        }
+      ]
+    },
+    {
+      "group": "Caritai Students",
+      "name": "Shu Yuan",
+      "avatar": "assets/members/en_pzk3r.png",
+      "fields": [
+        {
+          "label": "Year of joining Caritai",
+          "value": "2023"
+        },
+        {
+          "label": "Hometown",
+          "value": "Luohe, Henan"
+        },
+        {
+          "label": "Major and Class",
+          "value": "Computer Science, Class 2305"
+        },
+        {
+          "label": "Hobbies",
+          "value": "Swimming, Table Tennis"
+        },
+        {
+          "label": "Interesting fact",
+          "value": "Prone to gaining weight"
+        },
+        {
+          "label": "Reason for joining Caritai",
+          "value": "To gain a sense of belonging and learn from senior students' experiences"
+        },
+        {
+          "label": "Skills or strengths",
+          "value": "Affability, independent thinking, having my own opinions"
+        },
+        {
+          "label": "Where Caritai can utilize me",
+          "value": "I can assist with any tasks that Caritai needs help with"
+        },
+        {
+          "label": "Areas I hope to practice and improve",
+          "value": "Organizational and management skills, emotional intelligence"
+        },
+        {
+          "label": "Other student organizations joined",
+          "value": "Student Science and Technology Association"
+        },
+        {
+          "label": "Goals for this academic year",
+          "value": "Learn front-end development; Improve English listening and speaking skills"
+        },
+        {
+          "label": "Dream",
+          "value": "Financial freedom and making contributions to society."
+        },
+        {
+          "label": "Favorite quote",
+          "value": "\"Our lifelong goal is to strive to break free from the expectations of others and find our true selves.\""
         }
       ]
     },
@@ -3667,7 +3852,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Major and Class",
-          "value": "Translation 2401 Hobbies: Reading, listening to music"
+          "value": "Translation 2401"
+        },
+        {
+          "label": "Hobbies",
+          "value": "Reading, listening to music"
         },
         {
           "label": "Interesting fact",
@@ -3746,7 +3935,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Areas I hope to practice and improve",
-          "value": "Time management\n\nOther student organizations I have joined: The university student union"
+          "value": "Time management"
+        },
+        {
+          "label": "Other student organizations joined",
+          "value": "The university student union"
         },
         {
           "label": "Dream",
@@ -3797,7 +3990,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Areas I hope to practice and improve",
-          "value": "More courage, better spoken English, more careful execution and a firmer stance of my own\n\nOther student organizations I have joined: The General Office of the Student Affairs Department"
+          "value": "More courage, better spoken English, more careful execution and a firmer stance of my own"
+        },
+        {
+          "label": "Other student organizations joined",
+          "value": "The General Office of the Student Affairs Department"
         },
         {
           "label": "Dream",
@@ -3848,7 +4045,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Areas I hope to practice and improve",
-          "value": "Learning to slow down and relax\n\nOther student organizations I have joined: The \"Yuyi\" team, the Organization Department and the Host Troupe of the School of Foreign Languages, and the university's English Media Student Reporter Corps"
+          "value": "Learning to slow down and relax"
+        },
+        {
+          "label": "Other student organizations joined",
+          "value": "The \"Yuyi\" team, the Organization Department and the Host Troupe of the School of Foreign Languages, and the university's English Media Student Reporter Corps"
         },
         {
           "label": "Dream",
@@ -3899,7 +4100,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Areas I hope to practice and improve",
-          "value": "Becoming more outgoing and more at ease connecting with people\n\nOther student organizations I have joined: The university radio station and the Publicity Department of the Party Committee"
+          "value": "Becoming more outgoing and more at ease connecting with people"
+        },
+        {
+          "label": "Other student organizations joined",
+          "value": "The university radio station and the Publicity Department of the Party Committee"
         },
         {
           "label": "Dream",
@@ -3950,7 +4155,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Areas I hope to practice and improve",
-          "value": "Communication\n\nOther student organizations I have joined: The Psychology Association and the \"Green HUST\" volunteer team"
+          "value": "Communication"
+        },
+        {
+          "label": "Other student organizations joined",
+          "value": "The Psychology Association and the \"Green HUST\" volunteer team"
         },
         {
           "label": "Dream",
@@ -3959,6 +4168,183 @@ window.TEAM_DATA = {
         {
           "label": "Favorite quote",
           "value": "\"Read ten thousand books and travel ten thousand miles.\""
+        }
+      ]
+    },
+    {
+      "group": "Caritai Students",
+      "name": "Tianze Du",
+      "avatar": "assets/members/team_dutianze.jpg",
+      "fields": [
+        {
+          "label": "Year of joining Caritai",
+          "value": "2026"
+        },
+        {
+          "label": "Hometown",
+          "value": "Kaifeng, Henan"
+        },
+        {
+          "label": "Major and Class",
+          "value": "Translation and Interpreting, Class 2601"
+        },
+        {
+          "label": "Hobbies",
+          "value": "Reading, watching movies, taking walks"
+        },
+        {
+          "label": "Interesting fact",
+          "value": "I'm a bit silly in everyday life"
+        },
+        {
+          "label": "Reason for joining Caritai",
+          "value": "The slogan won me over; I want to become more capable and put kindness into action."
+        },
+        {
+          "label": "Skills or strengths",
+          "value": "Good with people and a good listener"
+        },
+        {
+          "label": "Where Caritai can utilize me",
+          "value": "Promoting and publicizing events"
+        },
+        {
+          "label": "Areas I hope to practice and improve",
+          "value": "Office and computer skills"
+        },
+        {
+          "label": "Other student organizations joined",
+          "value": "None at the moment"
+        },
+        {
+          "label": "Goals for this academic year",
+          "value": "To figure out what kind of college life works for me"
+        },
+        {
+          "label": "Dream",
+          "value": "Spiritual fulfillment"
+        },
+        {
+          "label": "Favorite quote",
+          "value": "\"Having seen how vast the world is, I still cherish the green of the grass.\""
+        }
+      ]
+    },
+    {
+      "group": "Caritai Students",
+      "name": "Yujing Li",
+      "avatar": "assets/members/team_liyujing.jpg",
+      "fields": [
+        {
+          "label": "Year of joining Caritai",
+          "value": "2026"
+        },
+        {
+          "label": "Hometown",
+          "value": "Yichang, Hubei"
+        },
+        {
+          "label": "Major and Class",
+          "value": "Business English, Class 2601"
+        },
+        {
+          "label": "Hobbies",
+          "value": "Reading, playing badminton"
+        },
+        {
+          "label": "Interesting fact",
+          "value": "Hmm, nothing really comes to mind (thinking)"
+        },
+        {
+          "label": "Reason for joining Caritai",
+          "value": "To better myself and give back to society"
+        },
+        {
+          "label": "Skills or strengths",
+          "value": "I'm a good listener"
+        },
+        {
+          "label": "Where Caritai can utilize me",
+          "value": "Happy to follow the team's arrangements"
+        },
+        {
+          "label": "Areas I hope to practice and improve",
+          "value": "Organizing events"
+        },
+        {
+          "label": "Other student organizations joined",
+          "value": "Social Practice Department"
+        },
+        {
+          "label": "Goals for this academic year",
+          "value": "Build a solid academic foundation; develop a new hobby"
+        },
+        {
+          "label": "Dream",
+          "value": "To become a teacher"
+        },
+        {
+          "label": "Favorite quote",
+          "value": "\"No fear of the future, no tears for the past.\""
+        }
+      ]
+    },
+    {
+      "group": "Caritai Students",
+      "name": "Ada (Jingyao Yuan)",
+      "avatar": "assets/members/team_yuanjingyao.jpg",
+      "fields": [
+        {
+          "label": "Year of joining Caritai",
+          "value": "2026"
+        },
+        {
+          "label": "Hometown",
+          "value": "Taiyuan, Shanxi"
+        },
+        {
+          "label": "Major and Class",
+          "value": "German, Class 2601"
+        },
+        {
+          "label": "Hobbies",
+          "value": "Reading, music, good food, films and anime, ball games, and chatting with people"
+        },
+        {
+          "label": "Interesting fact",
+          "value": "I'm curious about almost everything, so I can never tell what I truly like... and I'm also terribly indecisive"
+        },
+        {
+          "label": "Reason for joining Caritai",
+          "value": "It feels like a place where I can freely seek help and help others"
+        },
+        {
+          "label": "Skills or strengths",
+          "value": "Fairly well-rounded... I'd say I'm decent at processing and summarizing written information"
+        },
+        {
+          "label": "Where Caritai can utilize me",
+          "value": "Planning and communication... I'm happy to pitch in wherever I'm needed"
+        },
+        {
+          "label": "Areas I hope to practice and improve",
+          "value": "Self-discipline, practical skills, and coordination"
+        },
+        {
+          "label": "Other student organizations joined",
+          "value": "The Student Organization Department, the Debate Team, the Volleyball Team, and the 3C Club"
+        },
+        {
+          "label": "Goals for this academic year",
+          "value": "To settle into the rhythm of my new life and to challenge myself!"
+        },
+        {
+          "label": "Dream",
+          "value": "To find what I love doing, to stand on my own, and to have many good friends"
+        },
+        {
+          "label": "Favorite quote",
+          "value": "\"All those moments will be lost in time.\""
         }
       ]
     },
@@ -4866,7 +5252,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Areas I hope to practice and improve",
-          "value": "Broadening my horizons, enhancing communication and organizational skills, improving my English proficiency and software skills, and acquiring necessary knowledge.\n\nOther student organizations I have joined: Alumni Association, Assistant at the Party Member Activity Center"
+          "value": "Broadening my horizons, enhancing communication and organizational skills, improving my English proficiency and software skills, and acquiring necessary knowledge."
+        },
+        {
+          "label": "Other student organizations joined",
+          "value": "Alumni Association, Assistant at the Party Member Activity Center"
         },
         {
           "label": "Goals for this academic year",
@@ -4921,7 +5311,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Areas I hope to practice and improve",
-          "value": "Social skills\n\nOther student organizations I have joined: Psychology and Rights Center of Foreign Language College, Social Practice Center of the University, Volunteer Service Management Department"
+          "value": "Social skills"
+        },
+        {
+          "label": "Other student organizations joined",
+          "value": "Psychology and Rights Center of Foreign Language College, Social Practice Center of the University, Volunteer Service Management Department"
         },
         {
           "label": "Goals for this academic year",
@@ -4976,7 +5370,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Areas I hope to practice and improve",
-          "value": "Interpersonal communication skills and showcasing my abilities.\n\nOther student organizations I have joined: Psychology and Rights Center of the Foreign Language College."
+          "value": "Interpersonal communication skills and showcasing my abilities."
+        },
+        {
+          "label": "Other student organizations joined",
+          "value": "Psychology and Rights Center of the Foreign Language College."
         },
         {
           "label": "Goals for this academic year",
@@ -5031,7 +5429,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Areas I hope to practice and improve",
-          "value": "Independent thinking, developing viewpoints, expressing myself confidently.\n\nOther student organizations I have joined: Currently none."
+          "value": "Independent thinking, developing viewpoints, expressing myself confidently."
+        },
+        {
+          "label": "Other student organizations joined",
+          "value": "Currently none."
         },
         {
           "label": "Goals for this academic year",
@@ -5086,7 +5488,11 @@ window.TEAM_DATA = {
         },
         {
           "label": "Areas I hope to practice and improve",
-          "value": "Depth of thinking, communication and expression skills, organizational abilities.\n\nOther student organizations I have joined: University Radio Station, Student Affairs Office Assistant."
+          "value": "Depth of thinking, communication and expression skills, organizational abilities."
+        },
+        {
+          "label": "Other student organizations joined",
+          "value": "University Radio Station, Student Affairs Office Assistant."
         },
         {
           "label": "Goals for this academic year",
